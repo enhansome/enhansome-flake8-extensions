@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T05:22:25Z",
+            "last_commit": "2026-08-14T12:40:13Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
             "stars": 2890
@@ -724,7 +724,7 @@
             "last_commit": "2025-05-06T21:53:54Z",
             "owner": "PyCQA",
             "repo": "pep8-naming",
-            "stars": 531
+            "stars": 530
           }
         },
         {
@@ -825,7 +825,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-03-04T10:31:58Z",
+            "last_commit": "2026-08-14T09:39:50Z",
             "owner": "best-doctor",
             "repo": "flake8-annotations-complexity",
             "stars": 50
@@ -839,7 +839,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-13T18:14:19Z",
+            "last_commit": "2026-08-14T15:03:25Z",
             "owner": "best-doctor",
             "repo": "flake8-functions",
             "stars": 50
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2022-03-19T07:11:52Z",
+            "last_commit": "2026-08-14T15:11:33Z",
             "owner": "best-doctor",
             "repo": "flake8-expression-complexity",
             "stars": 33
@@ -1165,7 +1165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T23:32:03Z",
+            "last_commit": "2026-08-15T00:35:47Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
@@ -1960,7 +1960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:29:17.128Z",
+    "last_updated": "2026-08-15T02:18:31.583Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
     "enhanced_repository": "enhansome/enhansome-flake8-extensions",
