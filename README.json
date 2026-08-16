@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:49:06Z",
+            "last_commit": "2026-08-15T13:59:18Z",
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 6
@@ -1165,7 +1165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:35:47Z",
+            "last_commit": "2026-08-15T13:23:42Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
@@ -1325,7 +1325,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:26:28Z",
+            "last_commit": "2026-08-15T20:28:22Z",
             "owner": "henryiii",
             "repo": "flake8-lazy",
             "stars": 21
@@ -1721,7 +1721,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T12:41:37Z",
+            "last_commit": "2026-08-15T08:56:10Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
@@ -1960,7 +1960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:18:31.583Z",
+    "last_updated": "2026-08-16T02:33:31.087Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
     "enhanced_repository": "enhansome/enhansome-flake8-extensions",
