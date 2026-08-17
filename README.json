@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T12:40:13Z",
+            "last_commit": "2026-08-17T02:03:18Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2890
+            "stars": 2889
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-21T03:22:31Z",
             "owner": "MartinThoma",
             "repo": "flake8-simplify",
-            "stars": 194
+            "stars": 193
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-01-07T12:21:46Z",
             "owner": "dlint-py",
             "repo": "dlint",
-            "stars": 179
+            "stars": 177
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:59:18Z",
+            "last_commit": "2026-08-17T00:54:05Z",
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 6
@@ -1325,10 +1325,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:28:22Z",
+            "last_commit": "2026-08-16T14:31:30Z",
             "owner": "henryiii",
             "repo": "flake8-lazy",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -1960,7 +1960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:33:31.087Z",
+    "last_updated": "2026-08-17T02:33:02.785Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
     "enhanced_repository": "enhansome/enhansome-flake8-extensions",
