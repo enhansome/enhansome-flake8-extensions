@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T02:03:48Z",
+            "last_commit": "2026-08-18T08:23:19Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
             "stars": 2889
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:48:23Z",
+            "last_commit": "2026-08-18T04:48:02Z",
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 6
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:17:06Z",
+            "last_commit": "2026-08-18T20:35:34Z",
             "owner": "adamchainz",
             "repo": "flake8-comprehensions",
             "stars": 465
@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:17:27Z",
+            "last_commit": "2026-08-18T20:36:42Z",
             "owner": "adamchainz",
             "repo": "flake8-logging",
             "stars": 86
@@ -631,7 +631,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:17:26Z",
+            "last_commit": "2026-08-18T20:38:05Z",
             "owner": "adamchainz",
             "repo": "flake8-no-pep420",
             "stars": 29
@@ -1311,7 +1311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:18:27Z",
+            "last_commit": "2026-08-18T20:37:38Z",
             "owner": "adamchainz",
             "repo": "flake8-tidy-imports",
             "stars": 74
@@ -1457,7 +1457,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:50:58Z",
+            "last_commit": "2026-08-19T02:03:33Z",
             "owner": "m-burst",
             "repo": "flake8-pytest-style",
             "stars": 240
@@ -1682,7 +1682,7 @@
             "last_commit": "2025-08-23T15:50:24Z",
             "owner": "meta-pytorch",
             "repo": "torchfix",
-            "stars": 152
+            "stars": 151
           }
         },
         {
@@ -1721,7 +1721,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T08:56:10Z",
+            "last_commit": "2026-08-18T12:37:36Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
@@ -1960,7 +1960,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:20:36.122Z",
+    "last_updated": "2026-08-19T02:22:45.758Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
     "enhanced_repository": "enhansome/enhansome-flake8-extensions",
