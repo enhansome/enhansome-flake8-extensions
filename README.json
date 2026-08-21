@@ -12,10 +12,10 @@
             "archived": false,
             "id": 124593057,
             "language": "Python",
-            "last_commit": "2026-08-20T02:07:24Z",
+            "last_commit": "2026-08-21T02:03:27Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2889
+            "stars": 2890
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2023-05-17T13:33:24Z",
             "owner": "Melevir",
             "repo": "flake8-obey-import-goat",
-            "stars": 17
+            "stars": 16
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2024-10-30T16:42:33Z",
             "owner": "guilatrova",
             "repo": "tryceratops",
-            "stars": 447
+            "stars": 446
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2024-12-09T15:09:55Z",
             "owner": "mschwager",
             "repo": "cohesion",
-            "stars": 279
+            "stars": 278
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2026-07-03T17:47:43Z",
             "owner": "jsh9",
             "repo": "pydoclint",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "archived": false,
             "id": 126496135,
             "language": "Python",
-            "last_commit": "2026-08-19T23:52:09Z",
+            "last_commit": "2026-08-20T22:11:53Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
@@ -1677,7 +1677,7 @@
             "archived": false,
             "id": 187920593,
             "language": "Python",
-            "last_commit": "2026-08-19T02:03:33Z",
+            "last_commit": "2026-08-20T11:35:57Z",
             "owner": "m-burst",
             "repo": "flake8-pytest-style",
             "stars": 240
@@ -1848,7 +1848,7 @@
             "archived": false,
             "id": 384816648,
             "language": "Python",
-            "last_commit": "2026-08-17T19:56:44Z",
+            "last_commit": "2026-08-21T02:33:59Z",
             "owner": "TylerYep",
             "repo": "flake8-future-annotations",
             "stars": 15
@@ -1959,7 +1959,7 @@
             "archived": false,
             "id": 311745381,
             "language": "Python",
-            "last_commit": "2026-08-20T01:31:13Z",
+            "last_commit": "2026-08-20T19:05:08Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
@@ -2213,7 +2213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:21:41.719Z",
+    "last_updated": "2026-08-21T02:36:08.691Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_id": 156768939,
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
