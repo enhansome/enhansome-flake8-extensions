@@ -12,10 +12,10 @@
             "archived": false,
             "id": 124593057,
             "language": "Python",
-            "last_commit": "2026-08-21T02:03:27Z",
+            "last_commit": "2026-08-21T22:24:53Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2890
+            "stars": 2892
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "archived": false,
             "id": 126496135,
             "language": "Python",
-            "last_commit": "2026-08-20T22:11:53Z",
+            "last_commit": "2026-08-21T02:43:59Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
@@ -1959,7 +1959,7 @@
             "archived": false,
             "id": 311745381,
             "language": "Python",
-            "last_commit": "2026-08-20T19:05:08Z",
+            "last_commit": "2026-08-21T07:56:30Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
@@ -1998,7 +1998,7 @@
             "last_commit": "2021-09-16T16:01:09Z",
             "owner": "mlshapiro",
             "repo": "jupyterlab-flake8",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -2213,7 +2213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:36:08.691Z",
+    "last_updated": "2026-08-22T02:19:48.995Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_id": 156768939,
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
