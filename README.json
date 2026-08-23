@@ -12,10 +12,10 @@
             "archived": false,
             "id": 124593057,
             "language": "Python",
-            "last_commit": "2026-08-21T22:24:53Z",
+            "last_commit": "2026-08-22T08:11:57Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2892
+            "stars": 2893
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 53977862,
             "language": "Python",
-            "last_commit": "2026-08-19T16:45:12Z",
+            "last_commit": "2026-08-22T16:21:47Z",
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
             "stars": 1116
@@ -75,7 +75,7 @@
             "last_commit": "2026-01-07T12:21:46Z",
             "owner": "dlint-py",
             "repo": "dlint",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -2213,7 +2213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:19:48.995Z",
+    "last_updated": "2026-08-23T02:36:28.051Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_id": 156768939,
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
