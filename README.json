@@ -102,7 +102,7 @@
             "archived": false,
             "id": 923567597,
             "language": "Python",
-            "last_commit": "2026-08-19T20:54:26Z",
+            "last_commit": "2026-08-24T00:34:35Z",
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 6
@@ -1959,7 +1959,7 @@
             "archived": false,
             "id": 311745381,
             "language": "Python",
-            "last_commit": "2026-08-21T07:56:30Z",
+            "last_commit": "2026-08-24T00:38:33Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
@@ -2213,7 +2213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:36:28.051Z",
+    "last_updated": "2026-08-24T02:36:17.325Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_id": 156768939,
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
