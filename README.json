@@ -12,10 +12,10 @@
             "archived": false,
             "id": 124593057,
             "language": "Python",
-            "last_commit": "2026-08-22T08:11:57Z",
+            "last_commit": "2026-08-24T17:44:04Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2893
+            "stars": 2892
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 378670025,
             "language": "Python",
-            "last_commit": "2026-08-17T19:59:24Z",
+            "last_commit": "2026-08-24T19:36:02Z",
             "owner": "Takishima",
             "repo": "flake8-secure-coding-standard",
             "stars": 5
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 394682638,
             "language": "Python",
-            "last_commit": "2026-08-17T23:29:31Z",
+            "last_commit": "2026-08-24T18:15:23Z",
             "owner": "queensferryme",
             "repo": "flake8-too-many",
             "stars": 4
@@ -1365,7 +1365,7 @@
             "archived": false,
             "id": 126496135,
             "language": "Python",
-            "last_commit": "2026-08-21T02:43:59Z",
+            "last_commit": "2026-08-24T20:09:10Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
@@ -1611,7 +1611,7 @@
             "archived": false,
             "id": 551185918,
             "language": "Python",
-            "last_commit": "2026-08-17T23:15:35Z",
+            "last_commit": "2026-08-24T17:21:12Z",
             "owner": "marcgibbons",
             "repo": "flake8-datetime-import",
             "stars": 11
@@ -1848,7 +1848,7 @@
             "archived": false,
             "id": 384816648,
             "language": "Python",
-            "last_commit": "2026-08-21T02:33:59Z",
+            "last_commit": "2026-08-24T19:34:21Z",
             "owner": "TylerYep",
             "repo": "flake8-future-annotations",
             "stars": 15
@@ -2213,7 +2213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:09.420Z",
+    "last_updated": "2026-08-25T02:22:32.513Z",
     "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
     "original_repository_id": 156768939,
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
