@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T10:41:33Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2892
+            "stars": 2894
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2024-12-09T15:09:55Z",
             "owner": "mschwager",
             "repo": "cohesion",
-            "stars": 278
+            "stars": 280
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "archived": false,
             "id": 311941619,
             "language": "Python",
-            "last_commit": "2024-02-09T08:50:39Z",
+            "last_commit": "2026-08-26T08:03:49Z",
             "owner": "orsinium-labs",
             "repo": "flake8-todos",
             "stars": 30
@@ -1959,7 +1959,7 @@
             "archived": false,
             "id": 311745381,
             "language": "Python",
-            "last_commit": "2026-08-24T08:57:03Z",
+            "last_commit": "2026-08-27T02:10:51Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
@@ -2213,9 +2213,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:38:36.898Z",
-    "original_repository": "DmytroLitvinov/awesome-flake8-extensions",
-    "original_repository_id": 156768939,
+    "last_updated": "2026-08-27T11:10:04.997Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 156768939,
+      "language": null,
+      "last_commit": "2026-07-21T07:29:57Z",
+      "owner": "DmytroLitvinov",
+      "repo": "awesome-flake8-extensions",
+      "stars": 1278
+    },
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
     "enhanced_repository": "enhansome/enhansome-flake8-extensions",
     "enhanced_repository_description": null,
