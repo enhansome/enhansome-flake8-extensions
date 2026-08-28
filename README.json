@@ -12,11 +12,12 @@
             "archived": false,
             "id": 124593057,
             "language": "Python",
-            "last_commit": "2026-08-25T10:41:33Z",
+            "last_commit": "2026-08-28T10:45:59Z",
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
             "stars": 2895
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
             "stars": 1116
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "openstack",
             "repo": "hacking",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "MartinThoma",
             "repo": "flake8-simplify",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "dlint-py",
             "repo": "dlint",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "sbdchd",
             "repo": "flake8-pie",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "All-in-one"
@@ -127,7 +134,8 @@
             "owner": "asottile-archive",
             "repo": "flake8-2020",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "ebeweber",
             "repo": "flake8-mutable",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "datatheorem",
             "repo": "flake8-alfred",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "arkq",
             "repo": "flake8-requirements",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "nhoad",
             "repo": "flake8-unused-arguments",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "xZise",
             "repo": "flake8-string-format",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-warnings",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Zac-HD",
             "repo": "flake8-async-archive",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "python-formate",
             "repo": "flake8-dunder-all",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "python-formate",
             "repo": "flake8-encodings",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "Takishima",
             "repo": "flake8-secure-coding-standard",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "python-formate",
             "repo": "flake8-slots",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "decorator-factory",
             "repo": "flake8-useless-assert",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "jkittner",
             "repo": "flake8-timeout",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "python-formate",
             "repo": "flake8_strftime",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "ostr00000",
             "repo": "flake8-qt-tr",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Bugs"
@@ -373,7 +396,8 @@
             "owner": "adamchainz",
             "repo": "flake8-comprehensions",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "PyCQA",
             "repo": "flake8-commas",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "best-doctor",
             "repo": "flake8-class-attributes-order",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "pjknkda",
             "repo": "flake8-datetimez",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "flake8-implicit-str-concat",
             "repo": "flake8-implicit-str-concat",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "Melevir",
             "repo": "flake8-obey-import-goat",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "jsfehler",
             "repo": "flake8-multiline-containers",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "mobility-university",
             "repo": "flake8-newspaper-style",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "plinss",
             "repo": "flake8-literal",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "cyyc1",
             "repo": "flake8-clean-block",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "expobrain",
             "repo": "flake8-datetime-utcnow-plugin",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "cyyc1",
             "repo": "flake8-indent-in-def",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "ggupta2005",
             "repo": "flake8-all-not-strings",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "guilatrova",
             "repo": "tryceratops",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "zheller",
             "repo": "flake8-quotes",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "afonasev",
             "repo": "flake8-return",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "pgjones",
             "repo": "flake8-sql",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "smarkets",
             "repo": "flake8-strict",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "robsdedude",
             "repo": "flake8-picky-parentheses",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "MartinThoma",
             "repo": "flake8-scream",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "queensferryme",
             "repo": "flake8-too-many",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Clean code"
@@ -694,7 +738,8 @@
             "owner": "globality-corp",
             "repo": "flake8-logging-format",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "JBKahn",
             "repo": "flake8-print",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "wemake-services",
             "repo": "flake8-broken-line",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "adamchainz",
             "repo": "flake8-logging",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "MichaelKim0407",
             "repo": "flake8-use-fstring",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "asottile-archive",
             "repo": "flake8-walrus",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "JBKahn",
             "repo": "flake8-debugger",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "adamchainz",
             "repo": "flake8-no-pep420",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "asottile-archive",
             "repo": "flake8-match",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -825,11 +878,12 @@
             "archived": false,
             "id": 263813820,
             "language": "Python",
-            "last_commit": "2026-06-29T14:13:00Z",
+            "last_commit": "2026-08-28T10:54:08Z",
             "owner": "10sr",
             "repo": "flake8-no-implicit-concat",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "gforcada",
             "repo": "flake8-pep3101",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "atugushev",
             "repo": "flake8-printf-formatting",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "tripcher",
             "repo": "flake8-forbidden-func",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Limitations"
@@ -895,7 +952,8 @@
             "owner": "PyCQA",
             "repo": "pep8-naming",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "gforcada",
             "repo": "flake8-builtins",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -925,7 +984,8 @@
             "owner": "best-doctor",
             "repo": "flake8-variables-names",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -940,7 +1000,8 @@
             "owner": "Melevir",
             "repo": "flake8-functions-names",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1016,8 @@
             "owner": "bagerard",
             "repo": "flake8-test-name",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Naming"
@@ -976,7 +1038,8 @@
             "owner": "mschwager",
             "repo": "cohesion",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1054,8 @@
             "owner": "Melevir",
             "repo": "flake8-cognitive-complexity",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1070,8 @@
             "owner": "best-doctor",
             "repo": "flake8-annotations-complexity",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1086,8 @@
             "owner": "best-doctor",
             "repo": "flake8-functions",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1102,8 @@
             "owner": "best-doctor",
             "repo": "flake8-expression-complexity",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1118,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-length",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Complexity"
@@ -1072,7 +1140,8 @@
             "owner": "wemake-services",
             "repo": "flake8-eradicate",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1156,8 @@
             "owner": "plinss",
             "repo": "flake8-noqa",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1172,8 @@
             "owner": "schlamar",
             "repo": "flake8-todo",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1188,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-todos",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1204,8 @@
             "owner": "xuhdev",
             "repo": "flake8-executable",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1220,8 @@
             "owner": "tommilligan",
             "repo": "flake8-fixme",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1236,8 @@
             "owner": "savoirfairelinux",
             "repo": "flake8-copyright",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1252,8 @@
             "owner": "tk0miya",
             "repo": "flake8-coding",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1268,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-comments",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1284,8 @@
             "owner": "DanielKusyDev",
             "repo": "flake8-ado",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1300,8 @@
             "owner": "SimonStJG",
             "repo": "flake8-jira-todo-checker",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1316,8 @@
             "owner": "decafjoe",
             "repo": "flake8-ownership",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1332,8 @@
             "owner": "jparise",
             "repo": "flake8-author",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Comments"
@@ -1273,7 +1354,8 @@
             "owner": "jsh9",
             "repo": "pydoclint",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1287,8 +1369,9 @@
             "last_commit": "2026-07-13T23:00:46Z",
             "owner": "PyCQA",
             "repo": "flake8-docstrings",
-            "stars": 160
-          }
+            "stars": 161
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1386,8 @@
             "owner": "MichaelAquilina",
             "repo": "flake8-spellcheck",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1402,8 @@
             "owner": "peterjc",
             "repo": "flake8-rst-docstrings",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1418,8 @@
             "owner": "jdkandersson",
             "repo": "flake8-docstrings-complete",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1434,8 @@
             "owner": "python-formate",
             "repo": "flake8-sphinx-links",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Docstrings"
@@ -1365,11 +1452,12 @@
             "archived": false,
             "id": 126496135,
             "language": "Python",
-            "last_commit": "2026-08-24T20:09:10Z",
+            "last_commit": "2026-08-27T22:36:03Z",
             "owner": "andreoliwa",
             "repo": "nitpick",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1384,7 +1472,8 @@
             "owner": "asottile",
             "repo": "yesqa",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1399,7 +1488,8 @@
             "owner": "john-hen",
             "repo": "Flake8-pyproject",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1504,8 @@
             "owner": "flakehell",
             "repo": "flakehell",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1520,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-codes",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1536,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-ruler",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1552,8 @@
             "owner": "bagerard",
             "repo": "flake8-in-file-ignores",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1568,8 @@
             "owner": "orsinium-labs",
             "repo": "wps-playground",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Tools"
@@ -1495,7 +1590,8 @@
             "owner": "PyCQA",
             "repo": "flake8-import-order",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1510,7 +1606,8 @@
             "owner": "snok",
             "repo": "flake8-type-checking",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1525,7 +1622,8 @@
             "owner": "adamchainz",
             "repo": "flake8-tidy-imports",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1540,7 +1638,8 @@
             "owner": "henryiii",
             "repo": "flake8-lazy",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1555,7 +1654,8 @@
             "owner": "xZise",
             "repo": "flake8-future-import",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1670,8 @@
             "owner": "tlocke",
             "repo": "flake8-alphabetize",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1686,8 @@
             "owner": "spoqa",
             "repo": "flake8-import-order-spoqa",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1702,8 @@
             "owner": "bskinn",
             "repo": "flake8-absolute-import",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1718,8 @@
             "owner": "marcgibbons",
             "repo": "flake8-datetime-import",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1734,8 @@
             "owner": "joaopalmeiro",
             "repo": "flake8-import-conventions",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1750,8 @@
             "owner": "sfstpala",
             "repo": "flake8-import-style",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1766,8 @@
             "owner": "rows-s",
             "repo": "flake8_internal_name_import",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Imports"
@@ -1681,7 +1788,8 @@
             "owner": "m-burst",
             "repo": "flake8-pytest-style",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1804,8 @@
             "owner": "jamescooke",
             "repo": "flake8-aaa",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1820,8 @@
             "owner": "jparise",
             "repo": "flake8-assertive",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1836,8 @@
             "owner": "zupo",
             "repo": "flake8-mock",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1852,8 @@
             "owner": "vikingco",
             "repo": "flake8-pytest",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1868,8 @@
             "owner": "and-semakin",
             "repo": "flake8-pytestrail",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1884,8 @@
             "owner": "jdkandersson",
             "repo": "flake8-mock-spec",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Testing"
@@ -1792,7 +1906,8 @@
             "owner": "sco1",
             "repo": "flake8-annotations",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1922,8 @@
             "owner": "asottile",
             "repo": "flake8-typing-imports",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1938,8 @@
             "owner": "best-doctor",
             "repo": "flake8-annotations-coverage",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1954,8 @@
             "owner": "decorator-factory",
             "repo": "flake8-pep585",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1970,8 @@
             "owner": "TylerYep",
             "repo": "flake8-future-annotations",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1986,8 @@
             "owner": "xome4ok",
             "repo": "flake8-new-union-types",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Type annotations"
@@ -1888,7 +2008,8 @@
             "owner": "rocioar",
             "repo": "flake8-django",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1903,7 +2024,8 @@
             "owner": "deppen8",
             "repo": "pandas-vet",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1918,7 +2040,8 @@
             "owner": "meta-pytorch",
             "repo": "torchfix",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1933,7 +2056,8 @@
             "owner": "Kludex",
             "repo": "flake8-fastapi",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1948,7 +2072,8 @@
             "owner": "scrapy",
             "repo": "scrapy-lint",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1959,11 +2084,12 @@
             "archived": false,
             "id": 311745381,
             "language": "Python",
-            "last_commit": "2026-08-27T02:10:51Z",
+            "last_commit": "2026-08-28T01:43:05Z",
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -1978,7 +2104,8 @@
             "owner": "mflova",
             "repo": "flake8-numba",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Library-specific checks"
@@ -1999,7 +2126,8 @@
             "owner": "mlshapiro",
             "repo": "jupyterlab-flake8",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2014,7 +2142,8 @@
             "owner": "PyCQA",
             "repo": "flake8-pyi",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2029,7 +2158,8 @@
             "owner": "s-weigand",
             "repo": "flake8-nb",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2044,7 +2174,8 @@
             "owner": "johnfraney",
             "repo": "flake8-markdown",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2059,7 +2190,8 @@
             "owner": "flake8-docs",
             "repo": "flake8-rst",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Integrations"
@@ -2080,7 +2212,8 @@
             "owner": "gforcada",
             "repo": "flake8-isort",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2095,7 +2228,8 @@
             "owner": "peterjc",
             "repo": "flake8-black",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2110,7 +2244,8 @@
             "owner": "tylerwince",
             "repo": "flake8-bandit",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2260,8 @@
             "owner": "orsinium-labs",
             "repo": "flake8-pylint",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Wrappers"
@@ -2146,7 +2282,8 @@
             "owner": "lordmauve",
             "repo": "flake8-html",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2161,7 +2298,8 @@
             "owner": "awelzel",
             "repo": "flake8-gl-codeclimate",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2176,7 +2314,8 @@
             "owner": "aperezhortal",
             "repo": "flake8-dashboard",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2191,7 +2330,8 @@
             "owner": "PyCQA",
             "repo": "flake8-json",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         },
         {
           "node_type": "item",
@@ -2206,14 +2346,15 @@
             "owner": "maxkrivich",
             "repo": "flake8-github",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T12:43:25.770Z"
         }
       ],
       "title": "Formatters"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:43.688Z",
+    "last_updated": "2026-08-28T12:43:25.770Z",
     "original_repository_info": {
       "archived": false,
       "id": 156768939,
