@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The strictest and most opinionated python linter ever!",
+            "homepage": "https://wemake-python-styleguide.rtfd.io",
             "id": 124593057,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:45:59Z",
+            "open_issues": 13,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2895
+            "stars": 2895,
+            "topics": [
+              "code-quality",
+              "flake8",
+              "flake8-plugin",
+              "hacktoberfest",
+              "linter",
+              "python",
+              "python3",
+              "styleguide",
+              "wemake",
+              "wemake-services"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -26,12 +42,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.",
+            "homepage": null,
             "id": 53977862,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T16:21:47Z",
+            "open_issues": 61,
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
-            "stars": 1116
+            "stars": 1116,
+            "topics": [
+              "code-quality",
+              "linter",
+              "linter-flake8",
+              "linter-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenStack Hacking Style Checks. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/hacking",
             "id": 9040482,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-11T11:45:51Z",
+            "open_issues": 0,
             "owner": "openstack",
             "repo": "hacking",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -58,12 +89,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄ A flake8 plugin that helps you to simplify code",
+            "homepage": null,
             "id": 296913741,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T03:22:31Z",
+            "open_issues": 57,
             "owner": "MartinThoma",
             "repo": "flake8-simplify",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "code-quality",
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugin",
+              "linter",
+              "python",
+              "python-style",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -74,12 +119,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.",
+            "homepage": null,
             "id": 232599661,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-07T12:21:46Z",
+            "open_issues": 23,
             "owner": "dlint-py",
             "repo": "dlint",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "dlint",
+              "flake8",
+              "linter",
+              "python",
+              "security",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -90,12 +147,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":pizza: A flake8 extension that implements misc. lints",
+            "homepage": null,
             "id": 162019996,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-02-21T21:33:40Z",
+            "open_issues": 25,
             "owner": "sbdchd",
             "repo": "flake8-pie",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "flake8",
+              "lint",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -106,12 +172,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8-tergeo is a flake8 plugin which adds many new rules to improve your code quality. Out of the box it also brings a curated list of other plugins without additional efforts needed.",
+            "homepage": "https://sap.github.io/flake8-tergeo/",
             "id": 923567597,
             "language": "Python",
-            "last_commit": "2026-08-24T00:34:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:55:54Z",
+            "open_issues": 4,
             "owner": "SAP",
             "repo": "flake8-tergeo",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "flake8",
+              "plugin",
+              "quality"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -128,12 +203,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`",
+            "homepage": null,
             "id": 204224501,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-04T18:57:42Z",
+            "open_issues": 0,
             "owner": "asottile-archive",
             "repo": "flake8-2020",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "flake8"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -144,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 extension for mutable default arguments",
+            "homepage": "https://pypi.python.org/pypi/flake8-mutable",
             "id": 58516778,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T16:45:51Z",
+            "open_issues": 15,
             "owner": "ebeweber",
             "repo": "flake8-mutable",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -160,12 +247,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alfred is a flake8 plugin to warn on unsafe/obsolete symbols.",
+            "homepage": null,
             "id": 136026264,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-09T16:25:04Z",
+            "open_issues": 0,
             "owner": "datatheorem",
             "repo": "flake8-alfred",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "python3",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -176,12 +273,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package requirements checker",
+            "homepage": "https://pypi.org/project/flake8-requirements/",
             "id": 112574713,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-01T11:57:40Z",
+            "open_issues": 13,
             "owner": "arkq",
             "repo": "flake8-requirements",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "flake8",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -192,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to warn against unused arguments in functions",
+            "homepage": null,
             "id": 201706722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-27T22:16:56Z",
+            "open_issues": 3,
             "owner": "nhoad",
             "repo": "flake8-unused-arguments",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -208,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check that indexed parameters are used in strings",
+            "homepage": null,
             "id": 42061612,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-01T01:44:03Z",
+            "open_issues": 14,
             "owner": "xZise",
             "repo": "flake8-string-format",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -224,12 +339,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python linter (flake8, pylint, CLI) that warns you about using deprecated modules, classes, and functions",
+            "homepage": null,
             "id": 460009638,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-28T06:43:58Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-warnings",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "clean-code",
+              "code-quality",
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "linter",
+              "pylint",
+              "python",
+              "python3",
+              "qa",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -240,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A flake8 plugin that checks bad async / asyncio practices",
+            "homepage": null,
             "id": 468211391,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-19T18:44:07Z",
+            "open_issues": 3,
             "owner": "Zac-HD",
             "repo": "flake8-async-archive",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -256,12 +395,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.",
+            "homepage": "https://flake8-dunder-all.readthedocs.io/en/latest",
             "id": 289362997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-10T08:20:31Z",
+            "open_issues": 4,
             "owner": "python-formate",
             "repo": "flake8-dunder-all",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "flake8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -272,12 +419,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin to identify incorrect use of encodings.",
+            "homepage": "https://flake8-encodings.readthedocs.io/en/latest",
             "id": 337722579,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-07T22:03:04Z",
+            "open_issues": 3,
             "owner": "python-formate",
             "repo": "flake8-encodings",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "encodings",
+              "flake8",
+              "pep597",
+              "python",
+              "unicode"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -288,12 +446,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to enforce some secure coding standards for Python.",
+            "homepage": null,
             "id": 378670025,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:36:02Z",
+            "open_issues": 6,
             "owner": "Takishima",
             "repo": "flake8-secure-coding-standard",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -304,12 +471,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.",
+            "homepage": "https://flake8-slots.readthedocs.io/en/latest",
             "id": 340765978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-07T22:02:55Z",
+            "open_issues": 4,
             "owner": "python-formate",
             "repo": "flake8-slots",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "flake8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -320,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to catch useless `assert` statements",
+            "homepage": null,
             "id": 431255421,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-31T22:57:29Z",
+            "open_issues": 2,
             "owner": "decorator-factory",
             "repo": "flake8-useless-assert",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -336,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin that checks for missing timeout parameters in network calls.",
+            "homepage": null,
             "id": 360317270,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T20:10:34Z",
+            "open_issues": 1,
             "owner": "jkittner",
             "repo": "flake8-timeout",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -352,12 +537,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin which checks for use of platform specific strftime codes.",
+            "homepage": "https://flake8-strftime.readthedocs.io/en/latest",
             "id": 273320453,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-07T22:00:24Z",
+            "open_issues": 2,
             "owner": "python-formate",
             "repo": "flake8_strftime",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "date",
+              "datetime",
+              "flake8",
+              "python",
+              "strftime",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -368,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 extension for detecting incorrect QT translation",
+            "homepage": null,
             "id": 693882364,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T18:34:35Z",
+            "open_issues": 0,
             "owner": "ostr00000",
             "repo": "flake8-qt-tr",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -390,12 +592,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️ A flake8 plugin to help you write better list/set/dict comprehensions.",
+            "homepage": null,
             "id": 55505248,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T20:35:34Z",
+            "open_issues": 8,
             "owner": "adamchainz",
             "repo": "flake8-comprehensions",
-            "stars": 465
+            "stars": 465,
+            "topics": [
+              "flake8"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -406,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 extension for enforcing trailing commas in python",
+            "homepage": null,
             "id": 48100352,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-05T17:48:01Z",
+            "open_issues": 3,
             "owner": "PyCQA",
             "repo": "flake8-commas",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -422,12 +636,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 extension that checks classes attributes order",
+            "homepage": null,
             "id": 170579138,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-20T15:46:36Z",
+            "open_issues": 8,
             "owner": "best-doctor",
             "repo": "flake8-class-attributes-order",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "code-standards",
+              "flake8",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -438,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for flake8 to ban the usage of unsafe naive datetime class.",
+            "homepage": null,
             "id": 183490869,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T11:49:00Z",
+            "open_issues": 0,
             "owner": "pjknkda",
             "repo": "flake8-datetimez",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -454,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to encourage correct string literal concatenation",
+            "homepage": "https://pypi.org/project/flake8-implicit-str-concat/",
             "id": 224264445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T12:14:23Z",
+            "open_issues": 5,
             "owner": "flake8-implicit-str-concat",
             "repo": "flake8-implicit-str-concat",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -470,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension for flake8 that forbids some imports statements in some modules.",
+            "homepage": null,
             "id": 444789657,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-17T13:33:24Z",
+            "open_issues": 0,
             "owner": "Melevir",
             "repo": "flake8-obey-import-goat",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -486,12 +724,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin to ensure a consistent format for multiline containers.",
+            "homepage": null,
             "id": 188047477,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-19T22:09:57Z",
+            "open_issues": 12,
             "owner": "jsfehler",
             "repo": "flake8-multiline-containers",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "linter",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -502,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 489590394,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-16T14:10:06Z",
+            "open_issues": 0,
             "owner": "mobility-university",
             "repo": "flake8-newspaper-style",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -518,12 +771,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to validate string literals - Mirror of https://gitlab.linss.com/open-source/flake8/flake8-literal",
+            "homepage": null,
             "id": 270797851,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-28T02:58:04Z",
+            "open_issues": 0,
             "owner": "plinss",
             "repo": "flake8-literal",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "flake8",
+              "flake8-extension",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -534,12 +796,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin that enforces a blank line after if/for/while/with/try blocks in Python code",
+            "homepage": "https://pypi.org/project/flake8-clean-block/",
             "id": 544262971,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-08T21:54:04Z",
+            "open_issues": 0,
             "owner": "cyyc1",
             "repo": "flake8-clean-block",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -550,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 293908380,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-01T13:01:21Z",
+            "open_issues": 2,
             "owner": "expobrain",
             "repo": "flake8-datetime-utcnow-plugin",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -566,12 +844,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin that enforces 8-space indentation in function/class definitions in Python code",
+            "homepage": "https://pypi.org/project/flake8-indent-in-def/",
             "id": 544343557,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-08T21:55:35Z",
+            "open_issues": 1,
             "owner": "cyyc1",
             "repo": "flake8-indent-in-def",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -582,12 +871,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin which checks that modules under `__all__` are defined as strings",
+            "homepage": null,
             "id": 657808433,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-27T17:59:43Z",
+            "open_issues": 1,
             "owner": "ggupta2005",
             "repo": "flake8-all-not-strings",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "flake8",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -598,12 +896,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A linter to prevent exception handling antipatterns in Python (limited only for those who like dinosaurs).",
+            "homepage": null,
             "id": 378396677,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-30T16:42:33Z",
+            "open_issues": 10,
             "owner": "guilatrova",
             "repo": "tryceratops",
-            "stars": 446
+            "stars": 446,
+            "topics": [
+              "code",
+              "hacktoberfest",
+              "linter",
+              "python",
+              "python3",
+              "static-analysis",
+              "static-code-analysis",
+              "styleguide",
+              "stylelint"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -614,12 +927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 extension for checking quotes in python",
+            "homepage": null,
             "id": 17576986,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-23T11:51:57Z",
+            "open_issues": 12,
             "owner": "zheller",
             "repo": "flake8-quotes",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -630,12 +948,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin for return expressions checking.",
+            "homepage": null,
             "id": 169781561,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-08T11:56:09Z",
+            "open_issues": 14,
             "owner": "afonasev",
             "repo": "flake8-return",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -646,12 +971,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin that checks SQL code against opinionated style rules",
+            "homepage": null,
             "id": 77740149,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-15T14:21:28Z",
+            "open_issues": 6,
             "owner": "pgjones",
             "repo": "flake8-sql",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "flake8",
+              "python",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -662,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin that checks Python code against a set of opinionated style rules",
+            "homepage": null,
             "id": 44667012,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-05-30T14:07:56Z",
+            "open_issues": 4,
             "owner": "smarkets",
             "repo": "flake8-strict",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -678,12 +1017,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to check for redundant parentheses",
+            "homepage": "https://pypi.org/project/flake8-picky-parentheses/",
             "id": 522904951,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T06:51:49Z",
+            "open_issues": 4,
             "owner": "robsdedude",
             "repo": "flake8-picky-parentheses",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "hacktoberfest",
+              "lint",
+              "linter",
+              "linting",
+              "opinionated",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -694,12 +1047,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️🙀 Flake8 plugin that contains rules which do have known false-positives - it might still be useful for a one-time run",
+            "homepage": null,
             "id": 474316419,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-19T14:50:40Z",
+            "open_issues": 0,
             "owner": "MartinThoma",
             "repo": "flake8-scream",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -710,12 +1072,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin that prevents you from writing \"too many\" bad codes.",
+            "homepage": null,
             "id": 394682638,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:15:23Z",
+            "open_issues": 2,
             "owner": "queensferryme",
             "repo": "flake8-too-many",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "linter",
+              "python",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -732,12 +1105,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 extension to validate (lack of) logging format strings",
+            "homepage": null,
             "id": 88560488,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-12T21:59:54Z",
+            "open_issues": 32,
             "owner": "globality-corp",
             "repo": "flake8-logging-format",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "microcosm"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -748,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8",
+            "homepage": null,
             "id": 21356119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-16T15:16:20Z",
+            "open_issues": 4,
             "owner": "JBKahn",
             "repo": "flake8-print",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -764,12 +1149,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚨 Flake8 plugin to forbid backslashes (\\) for line breaks",
+            "homepage": "https://pypi.org/project/flake8-broken-line/",
             "id": 150951235,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-03T19:48:30Z",
+            "open_issues": 14,
             "owner": "wemake-services",
             "repo": "flake8-broken-line",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "code-quality",
+              "flake8",
+              "flake8-plugin",
+              "lint",
+              "linter",
+              "linting",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -780,12 +1179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin that checks for issues using the standard library logging module.",
+            "homepage": null,
             "id": 682293023,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T20:36:42Z",
+            "open_issues": 16,
             "owner": "adamchainz",
             "repo": "flake8-logging",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -796,12 +1200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 200324966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-07T06:55:07Z",
+            "open_issues": 4,
             "owner": "MichaelKim0407",
             "repo": "flake8-use-fstring",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -812,12 +1221,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "flake8 plugin which forbids assignment expressions (the walrus operator)",
+            "homepage": null,
             "id": 200417195,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-04T18:35:18Z",
+            "open_issues": 0,
             "owner": "asottile-archive",
             "repo": "flake8-walrus",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "flake8"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -828,12 +1244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 debug statement checker",
+            "homepage": null,
             "id": 21356130,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-30T16:50:32Z",
+            "open_issues": 2,
             "owner": "JBKahn",
             "repo": "flake8-debugger",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -844,12 +1265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin to ban PEP-420 implicit namespace packages.",
+            "homepage": null,
             "id": 322816668,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T20:38:05Z",
+            "open_issues": 2,
             "owner": "adamchainz",
             "repo": "flake8-no-pep420",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -860,12 +1286,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "flake8 plugin which forbids match statements (PEP 634)",
+            "homepage": null,
             "id": 337556367,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-04T18:34:06Z",
+            "open_issues": 0,
             "owner": "asottile-archive",
             "repo": "flake8-match",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -876,12 +1307,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 Plugin that Forbids Implicit str/bytes Literal Concatenations",
+            "homepage": "https://pypi.org/project/flake8-no-implicit-concat/",
             "id": 263813820,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:54:08Z",
+            "open_issues": 0,
             "owner": "10sr",
             "repo": "flake8-no-implicit-concat",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "linter",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -892,12 +1334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks for old string formatting.",
+            "homepage": "https://pypi.org/project/flake8-pep3101",
             "id": 42574247,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-10-25T13:05:14Z",
+            "open_issues": 3,
             "owner": "gforcada",
             "repo": "flake8-pep3101",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -908,12 +1355,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin that forbids printf-style string formatting",
+            "homepage": null,
             "id": 206999285,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-12T05:36:31Z",
+            "open_issues": 4,
             "owner": "atugushev",
             "repo": "flake8-printf-formatting",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "formatting",
+              "printf",
+              "qa",
+              "quality-assurance"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -924,12 +1383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 475276524,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-09T15:50:38Z",
+            "open_issues": 1,
             "owner": "tripcher",
             "repo": "flake8-forbidden-func",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -946,12 +1410,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Naming Convention checker for Python",
+            "homepage": "pypi.python.org/pypi/pep8-naming",
             "id": 8113165,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-06T21:53:54Z",
+            "open_issues": 21,
             "owner": "PyCQA",
             "repo": "pep8-naming",
-            "stars": 530
+            "stars": 530,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugin",
+              "linter-flake8",
+              "linter-plugin",
+              "naming-conventions",
+              "pep8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -962,12 +1440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check for python builtins being used as variables or parameters",
+            "homepage": "https://pypi.org/project/flake8-builtins",
             "id": 52920670,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-10-25T13:46:05Z",
+            "open_issues": 3,
             "owner": "gforcada",
             "repo": "flake8-builtins",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -978,12 +1461,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 extension that helps to make more readable variables names",
+            "homepage": null,
             "id": 169563195,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-28T16:04:24Z",
+            "open_issues": 5,
             "owner": "best-doctor",
             "repo": "flake8-variables-names",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "naming-conventions"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -994,12 +1486,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension for flake8 that validates functions names, decomposition and conformity with annotations.",
+            "homepage": null,
             "id": 349808929,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-13T11:34:19Z",
+            "open_issues": 9,
             "owner": "Melevir",
             "repo": "flake8-functions-names",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "code-style",
+              "contract",
+              "flake8",
+              "flake8-plugin",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1010,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin for validating test name functions",
+            "homepage": null,
             "id": 349221736,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T16:15:46Z",
+            "open_issues": 3,
             "owner": "bagerard",
             "repo": "flake8-test-name",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1032,12 +1540,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for measuring Python class cohesion.",
+            "homepage": null,
             "id": 65501724,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-09T15:09:55Z",
+            "open_issues": 8,
             "owner": "mschwager",
             "repo": "cohesion",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "class",
+              "code",
+              "cohesion",
+              "flake8",
+              "flake8-plugin",
+              "lint",
+              "linter-plugin",
+              "measure",
+              "module",
+              "oop",
+              "python",
+              "quality"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1048,12 +1574,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension for flake8 that validates cognitive functions complexity",
+            "homepage": null,
             "id": 218703283,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-24T05:24:21Z",
+            "open_issues": 6,
             "owner": "Melevir",
             "repo": "flake8-cognitive-complexity",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "code-complexity",
+              "code-style",
+              "complexity",
+              "flake8",
+              "flake8-plugin",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1064,12 +1602,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to validate annotations complexity",
+            "homepage": null,
             "id": 169535722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T09:39:50Z",
+            "open_issues": 3,
             "owner": "best-doctor",
             "repo": "flake8-annotations-complexity",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "complexity",
+              "flake8",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1080,12 +1627,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin for validation of function parameters (length, complexity, etc)",
+            "homepage": null,
             "id": 212029260,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T15:03:25Z",
+            "open_issues": 7,
             "owner": "best-doctor",
             "repo": "flake8-functions",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "code-standards",
+              "flake8",
+              "flake8-plugin",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1096,12 +1653,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to validate expressions complexity",
+            "homepage": null,
             "id": 218454445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T15:11:33Z",
+            "open_issues": 6,
             "owner": "best-doctor",
             "repo": "flake8-expression-complexity",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "code-standards",
+              "flake8",
+              "flake8-plugin",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1112,12 +1679,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin for a smart line length validation.",
+            "homepage": null,
             "id": 334154221,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-30T12:03:08Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-length",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "clean-code",
+              "code-quality",
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "linter",
+              "qa"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1134,12 +1716,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to find commented out or dead code",
+            "homepage": "https://pypi.org/project/flake8-eradicate/",
             "id": 149723127,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-14T02:08:22Z",
+            "open_issues": 11,
             "owner": "wemake-services",
             "repo": "flake8-eradicate",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "code-quality",
+              "comments",
+              "flake8",
+              "flake8-plugin",
+              "linter",
+              "linter-plugin",
+              "wemake-python-styleguide",
+              "wemake-services"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1150,12 +1746,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to validate #noqa comments - Mirror of https://gitlab.linss.com/open-source/flake8/flake8-noqa",
+            "homepage": null,
             "id": 270392855,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-02-07T17:21:57Z",
+            "open_issues": 9,
             "owner": "plinss",
             "repo": "flake8-noqa",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "flake8",
+              "flake8-extension",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1166,12 +1771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 TODO note plugin.",
+            "homepage": null,
             "id": 9028570,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-07T16:46:16Z",
+            "open_issues": 3,
             "owner": "schlamar",
             "repo": "flake8-todo",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1182,12 +1792,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lint TODO comments in a Python code",
+            "homepage": null,
             "id": 311941619,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T08:03:49Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-todos",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "code-quality",
+              "flake8",
+              "flake8-plugin",
+              "linter",
+              "python",
+              "qa",
+              "todo"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1198,12 +1821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin for checking executable permissions and shebangs.",
+            "homepage": "https://pypi.org/project/flake8-executable/",
             "id": 193312845,
             "language": "Python",
-            "last_commit": "2026-08-06T17:38:50Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-29T01:08:22Z",
+            "open_issues": 19,
             "owner": "xuhdev",
             "repo": "flake8-executable",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1214,12 +1842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check for FIXME, TODO and other temporary developer notes.",
+            "homepage": "https://pypi.org/project/flake8-fixme/",
             "id": 175608683,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-08T01:50:36Z",
+            "open_issues": 4,
             "owner": "tommilligan",
             "repo": "flake8-fixme",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1230,12 +1863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds copyright checks to flake8",
+            "homepage": null,
             "id": 20229511,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2023-09-18T16:32:19Z",
+            "open_issues": 9,
             "owner": "savoirfairelinux",
             "repo": "flake8-copyright",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1246,12 +1884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 32499742,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-16T13:44:20Z",
+            "open_issues": 2,
             "owner": "tk0miya",
             "repo": "flake8-coding",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1262,12 +1905,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Report redundant comments in python code",
+            "homepage": null,
             "id": 373399911,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-08T12:47:45Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-comments",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "clean-code",
+              "code-quality",
+              "comments",
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "linter",
+              "python",
+              "qa"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1278,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to check comments against AzureDevOps ticket references.",
+            "homepage": null,
             "id": 531617599,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-01T17:10:08Z",
+            "open_issues": 0,
             "owner": "DanielKusyDev",
             "repo": "flake8-ado",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1294,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a JIRA ID next to it.",
+            "homepage": null,
             "id": 317003034,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-06T17:17:53Z",
+            "open_issues": 3,
             "owner": "SimonStJG",
             "repo": "flake8-jira-todo-checker",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1310,12 +1980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 checker for assuring that author, copyright, and license are specified in source files.",
+            "homepage": "https://flake8-ownership.readthedocs.io",
             "id": 104315360,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-07-15T15:48:19Z",
+            "open_issues": 0,
             "owner": "decafjoe",
             "repo": "flake8-ownership",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1326,12 +2001,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 extension that checks Python modules for __author__ attributes",
+            "homepage": "https://pypi.python.org/pypi/flake8-author",
             "id": 57457466,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-25T00:40:35Z",
+            "open_issues": 0,
             "owner": "jparise",
             "repo": "flake8-author",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "flake8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1348,12 +2031,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very fast Python docstring linter",
+            "homepage": "https://pypi.org/project/pydoclint/",
             "id": 639678591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-03T17:47:43Z",
+            "open_issues": 30,
             "owner": "jsh9",
             "repo": "pydoclint",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "docstring",
+              "docstring-checker",
+              "documantation",
+              "documentation-tool",
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "linter",
+              "python-documentation"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1364,12 +2064,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integration of pydocstyle and flake8 for combined linting and reporting",
+            "homepage": null,
             "id": 38896310,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T23:00:46Z",
+            "open_issues": 3,
             "owner": "PyCQA",
             "repo": "flake8-docstrings",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "docstrings",
+              "flake8",
+              "flake8-extension",
+              "flake8-plugin",
+              "pydocstyle"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1380,12 +2091,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️ Spellcheck variables, classnames, comments, docstrings etc",
+            "homepage": null,
             "id": 148219730,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-27T14:50:13Z",
+            "open_issues": 25,
             "owner": "MichaelAquilina",
             "repo": "flake8-spellcheck",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "linter",
+              "python",
+              "spellcheck"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1396,12 +2116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to validate Python docstrings as reStructuredText (RST)",
+            "homepage": null,
             "id": 93773787,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T16:58:33Z",
+            "open_issues": 5,
             "owner": "peterjc",
             "repo": "flake8-rst-docstrings",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1412,12 +2137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 583179046,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-07T09:56:01Z",
+            "open_issues": 15,
             "owner": "jdkandersson",
             "repo": "flake8-docstrings-complete",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1428,12 +2158,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.",
+            "homepage": "https://flake8-sphinx-links.readthedocs.io/en/latest",
             "id": 279792476,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-07T22:02:53Z",
+            "open_issues": 0,
             "owner": "python-formate",
             "repo": "flake8-sphinx-links",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "documentation",
+              "flake8",
+              "python",
+              "sphinx"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1450,12 +2190,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enforce the same settings on multiple projects",
+            "homepage": "https://nitpick.readthedocs.io/",
             "id": 126496135,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:36:03Z",
+            "open_issues": 57,
             "owner": "andreoliwa",
             "repo": "nitpick",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "isort",
+              "linter",
+              "mypy",
+              "pylint",
+              "python",
+              "python3",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1466,12 +2221,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically remove unnecessary `# noqa` comments",
+            "homepage": null,
             "id": 114721100,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:33:03Z",
+            "open_issues": 0,
             "owner": "asottile",
             "repo": "yesqa",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "flake8",
+              "pre-commit"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1482,12 +2245,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plug-in loading the configuration from pyproject.toml",
+            "homepage": "https://pypi.org/project/Flake8-pyproject",
             "id": 463584448,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T11:33:41Z",
+            "open_issues": 2,
             "owner": "john-hen",
             "repo": "Flake8-pyproject",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "flake8-plugins",
+              "pyproject",
+              "pyproject-toml"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1498,12 +2272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 wrapper to make it nice, legacy-friendly, configurable.",
+            "homepage": "https://flakehell.github.io/flakehell/",
             "id": 335882057,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-20T11:38:34Z",
+            "open_issues": 21,
             "owner": "flakehell",
             "repo": "flakehell",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1514,12 +2293,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool to introspect flake8 plugins and their codes",
+            "homepage": null,
             "id": 329620379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-23T09:54:29Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-codes",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "linter",
+              "python",
+              "qa"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1530,12 +2322,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More powerful configs for flake8",
+            "homepage": null,
             "id": 452704414,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-28T08:23:33Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-ruler",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugins",
+              "linter",
+              "pyproject-toml",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1546,12 +2351,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin for ignoring specific error at file level",
+            "homepage": null,
             "id": 509765787,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-09T14:54:40Z",
+            "open_issues": 0,
             "owner": "bagerard",
             "repo": "flake8-in-file-ignores",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1562,12 +2374,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online playground for wemake-python-styleguide",
+            "homepage": "https://wps.orsinium.dev/",
             "id": 480385999,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-09T10:25:49Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "wps-playground",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "flake8",
+              "go",
+              "golang",
+              "linter",
+              "playground",
+              "pyodide",
+              "python",
+              "wasm",
+              "webassembly",
+              "wemake"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1584,12 +2412,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin that checks import order against various Python Style Guides",
+            "homepage": null,
             "id": 17799097,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-18T01:15:13Z",
+            "open_issues": 14,
             "owner": "PyCQA",
             "repo": "flake8-import-order",
-            "stars": 281
+            "stars": 281,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "linter-flake8",
+              "linter-plugin",
+              "pylama",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1600,12 +2440,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin for managing type-checking imports & forward references.",
+            "homepage": null,
             "id": 341493157,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-18T22:51:10Z",
+            "open_issues": 4,
             "owner": "snok",
             "repo": "flake8-type-checking",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugin",
+              "imports",
+              "python",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1616,12 +2468,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️ A flake8 plugin that helps you write tidier imports.",
+            "homepage": null,
             "id": 50190181,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T20:37:38Z",
+            "open_issues": 5,
             "owner": "adamchainz",
             "repo": "flake8-tidy-imports",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "flake8"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1632,12 +2491,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detect modules that can be lazy imported in Python 3.15+",
+            "homepage": "https://flake8-lazy.readthedocs.io",
             "id": 1185679962,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T03:54:49Z",
+            "open_issues": 0,
             "owner": "henryiii",
             "repo": "flake8-lazy",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "flake8",
+              "lazy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1648,12 +2516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 extension to check imports",
+            "homepage": null,
             "id": 40415027,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-18T13:08:34Z",
+            "open_issues": 6,
             "owner": "xZise",
             "repo": "flake8-future-import",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1664,12 +2537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python style checker for import statements, __all__ lists and exception lists, implemented as a flake8 plugin",
+            "homepage": null,
             "id": 356002608,
             "language": "Python",
+            "license": "MIT-0",
             "last_commit": "2023-05-23T17:09:56Z",
+            "open_issues": 0,
             "owner": "tlocke",
             "repo": "flake8-alphabetize",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1680,12 +2558,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spoqa's import order style for flake8-import-order",
+            "homepage": "https://pypi.org/project/flake8-import-order-spoqa/",
             "id": 80452747,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2018-08-30T21:14:57Z",
+            "open_issues": 0,
             "owner": "spoqa",
             "repo": "flake8-import-order-spoqa",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "coding-conventions",
+              "flake8",
+              "flake8-import-order",
+              "import-order",
+              "lint",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1696,12 +2586,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to require absolute imports",
+            "homepage": null,
             "id": 206829782,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-29T05:48:35Z",
+            "open_issues": 4,
             "owner": "bskinn",
             "repo": "flake8-absolute-import",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "absolute-imports",
+              "flake8-plugin",
+              "linting",
+              "relative-imports"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1712,12 +2612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for flake8 which enforces importing `datetime as dt` and `time as tm`.",
+            "homepage": null,
             "id": 551185918,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:21:12Z",
+            "open_issues": 1,
             "owner": "marcgibbons",
             "repo": "flake8-datetime-import",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1728,12 +2633,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated plugin for Flake8 on how certain packages should be imported or aliased.",
+            "homepage": "https://pypi.org/project/flake8-import-conventions/",
             "id": 346509412,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-14T14:34:43Z",
+            "open_issues": 17,
             "owner": "joaopalmeiro",
             "repo": "flake8-import-conventions",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "flake8",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1744,12 +2657,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin to ensure explicit module imports",
+            "homepage": "https://pypi.python.org/pypi/flake8-import-style",
             "id": 99241215,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2022-03-27T04:22:22Z",
+            "open_issues": 2,
             "owner": "sfstpala",
             "repo": "flake8-import-style",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "flake8",
+              "python",
+              "quality-assurance"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1760,12 +2682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin that reports imports of private names",
+            "homepage": null,
             "id": 670777797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-25T08:52:45Z",
+            "open_issues": 1,
             "owner": "rows-s",
             "repo": "flake8_internal_name_import",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1782,12 +2709,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.",
+            "homepage": null,
             "id": 187920593,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T11:35:57Z",
+            "open_issues": 34,
             "owner": "m-burst",
             "repo": "flake8-pytest-style",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "flake8",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "pytest",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1798,12 +2737,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern",
+            "homepage": "https://flake8-aaa.readthedocs.io/",
             "id": 122377463,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-25T21:58:19Z",
+            "open_issues": 12,
             "owner": "jamescooke",
             "repo": "flake8-aaa",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "arrange-act-assert",
+              "code-quality",
+              "flake8-plugin",
+              "linter",
+              "python",
+              "tdd",
+              "test-driven-development",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1814,12 +2767,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 unittest assert method checker",
+            "homepage": "https://pypi.org/project/flake8-assertive/",
             "id": 132822778,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-27T01:15:55Z",
+            "open_issues": 0,
             "owner": "jparise",
             "repo": "flake8-assertive",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "flake8",
+              "python",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1830,12 +2792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides checking mock non-existent methods",
+            "homepage": null,
             "id": 44405077,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-07-07T09:42:50Z",
+            "open_issues": 4,
             "owner": "zupo",
             "repo": "flake8-mock",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1846,12 +2813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Integration repository",
+            "homepage": null,
             "id": 60681760,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-09T21:37:41Z",
+            "open_issues": 0,
             "owner": "vikingco",
             "repo": "flake8-pytest",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1862,12 +2834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to check for missing or wrong TestRail test identifiers",
+            "homepage": null,
             "id": 251219747,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-04T12:11:04Z",
+            "open_issues": 0,
             "owner": "and-semakin",
             "repo": "flake8-pytestrail",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1878,12 +2855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enforce mocks constructed with the spec argument",
+            "homepage": null,
             "id": 588770910,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-01T07:42:54Z",
+            "open_issues": 1,
             "owner": "jdkandersson",
             "repo": "flake8-mock-spec",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -1900,12 +2882,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 Type Annotation Checking",
+            "homepage": "https://pypi.org/project/flake8-annotations/",
             "id": 200552483,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-10T01:08:09Z",
+            "open_issues": 0,
             "owner": "sco1",
             "repo": "flake8-annotations",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "python",
+              "python3",
+              "type-annotations"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1916,12 +2909,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin which checks that typing imports are properly guarded",
+            "homepage": null,
             "id": 187746679,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:35:25Z",
+            "open_issues": 0,
             "owner": "asottile",
             "repo": "flake8-typing-imports",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "flake8",
+              "mypy",
+              "pre-commit",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1932,12 +2935,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to validate annotations coverage",
+            "homepage": null,
             "id": 169375159,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-24T19:09:30Z",
+            "open_issues": 3,
             "owner": "best-doctor",
             "repo": "flake8-annotations-coverage",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "annotations",
+              "flake8",
+              "flake8-plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1948,12 +2960,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to enforce new-style type hints (PEP 585)",
+            "homepage": "https://pypi.org/project/flake8-pep585/",
             "id": 450853286,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2023-02-28T19:37:34Z",
+            "open_issues": 0,
             "owner": "decorator-factory",
             "repo": "flake8-pep585",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "python",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1964,12 +2986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Verifies python 3.7+ files use `from __future__ import annotations`",
+            "homepage": null,
             "id": 384816648,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:34:21Z",
+            "open_issues": 4,
             "owner": "TylerYep",
             "repo": "flake8-future-annotations",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -1980,12 +3007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to enforce the new Union and Optional annotation syntax defined in PEP 604",
+            "homepage": null,
             "id": 491879539,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-07T14:02:10Z",
+            "open_issues": 0,
             "owner": "xome4ok",
             "repo": "flake8-new-union-types",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -2002,12 +3034,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin to detect bad practices on Django projects.",
+            "homepage": null,
             "id": 150638005,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-09T09:53:22Z",
+            "open_issues": 29,
             "owner": "rocioar",
             "repo": "flake8-django",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2018,12 +3055,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Flake8 that checks pandas code",
+            "homepage": "https://pandas-vet.readthedocs.io",
             "id": 172439221,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-11T17:41:30Z",
+            "open_issues": 13,
             "owner": "deppen8",
             "repo": "pandas-vet",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "linter",
+              "pandas",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2034,12 +3082,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TorchFix - a linter for PyTorch-using code with autofix support",
+            "homepage": null,
             "id": 718880320,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-23T15:50:24Z",
+            "open_issues": 20,
             "owner": "meta-pytorch",
             "repo": "torchfix",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "hacktoberfest",
+              "linter",
+              "python",
+              "pytorch",
+              "static-analysis",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2050,12 +3112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓",
+            "homepage": null,
             "id": 372750696,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-29T09:52:34Z",
+            "open_issues": 3,
             "owner": "Kludex",
             "repo": "flake8-fastapi",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "asgi",
+              "fastapi",
+              "flake8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2066,12 +3138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A linter for Scrapy projects.",
+            "homepage": "https://scrapy-lint.readthedocs.io/en/latest/",
             "id": 151003999,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-07T09:52:54Z",
+            "open_issues": 98,
             "owner": "scrapy",
             "repo": "scrapy-lint",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "flake8",
+              "flake8-plugin",
+              "linter",
+              "linter-plugin",
+              "scrapy"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2082,12 +3165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin to lint for backwards incompatible database migrations",
+            "homepage": null,
             "id": 311745381,
             "language": "Python",
-            "last_commit": "2026-08-28T01:43:05Z",
+            "license": null,
+            "last_commit": "2026-08-28T15:38:34Z",
+            "open_issues": 1,
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2098,12 +3186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin that performs multiple checks over numba package usage",
+            "homepage": null,
             "id": 656599664,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-23T12:14:50Z",
+            "open_issues": 1,
             "owner": "mflova",
             "repo": "flake8-numba",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -2120,12 +3213,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyterlab python linter for notebooks and text files using flake8",
+            "homepage": null,
             "id": 129121371,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-09-16T16:01:09Z",
+            "open_issues": 8,
             "owner": "mlshapiro",
             "repo": "jupyterlab-flake8",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "flake8",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2136,12 +3239,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for Flake8 that provides specializations for type hinting stub files",
+            "homepage": null,
             "id": 77032889,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T18:32:58Z",
+            "open_issues": 23,
             "owner": "PyCQA",
             "repo": "flake8-pyi",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "flake8",
+              "lint",
+              "linter",
+              "linter-plugin",
+              "mypy",
+              "pep484",
+              "python",
+              "stub-files",
+              "type-checking",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2152,12 +3271,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 checking for jupyter notebooks",
+            "homepage": null,
             "id": 211533352,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-18T07:21:07Z",
+            "open_issues": 11,
             "owner": "s-weigand",
             "repo": "flake8-nb",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "cli",
+              "code-quality-analyzer",
+              "flake8",
+              "flake8-nb",
+              "jupyter-notebooks",
+              "notebook",
+              "quality-assurance",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2168,12 +3301,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lints Python code blocks in Markdown files using flake8",
+            "homepage": null,
             "id": 187520825,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-09T21:17:59Z",
+            "open_issues": 1,
             "owner": "johnfraney",
             "repo": "flake8-markdown",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "flake8",
+              "hacktoberfest",
+              "linter",
+              "markdown",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2184,12 +3328,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run flake8 checks on code in *.rst files or in docstrings",
+            "homepage": null,
             "id": 146269788,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-26T09:41:48Z",
+            "open_issues": 13,
             "owner": "flake8-docs",
             "repo": "flake8-rst",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "documentation-tool",
+              "flake8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -2206,12 +3359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin that integrates isort",
+            "homepage": "https://pypi.org/project/flake8-isort",
             "id": 42370031,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-10-25T13:31:13Z",
+            "open_issues": 1,
             "owner": "gforcada",
             "repo": "flake8-isort",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2222,12 +3380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin to run black for checking Python coding style",
+            "homepage": null,
             "id": 165075936,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T16:55:08Z",
+            "open_issues": 4,
             "owner": "peterjc",
             "repo": "flake8-black",
-            "stars": 167
+            "stars": 167,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2238,12 +3401,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated security testing using bandit and flake8.",
+            "homepage": null,
             "id": 108691072,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-13T06:38:29Z",
+            "open_issues": 13,
             "owner": "tylerwince",
             "repo": "flake8-bandit",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "bandit",
+              "flake8",
+              "security",
+              "security-automation",
+              "security-tools",
+              "static-code-analysis",
+              "vulnerability-detection"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2254,12 +3430,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 plugin that runs PyLint",
+            "homepage": null,
             "id": 329624655,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-07T05:44:08Z",
+            "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-pylint",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "pylint",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -2276,12 +3466,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate HTML reports of flake8 violations",
+            "homepage": null,
             "id": 83592089,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-26T06:38:56Z",
+            "open_issues": 11,
             "owner": "lordmauve",
             "repo": "flake8-html",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "flake8-plugin",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2292,12 +3491,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flake8 formatter producing Gitlab Code Quality artifacts.",
+            "homepage": null,
             "id": 195557980,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-06T16:58:00Z",
+            "open_issues": 3,
             "owner": "awelzel",
             "repo": "flake8-gl-codeclimate",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "codeclimate",
+              "flake8",
+              "flake8-plugin",
+              "gitlab",
+              "gitlab-ci",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2308,12 +3519,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flake8 plugin to generate an HTML dashboard with a report of the flake8 violations found.",
+            "homepage": null,
             "id": 207626858,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-05T17:27:22Z",
+            "open_issues": 1,
             "owner": "aperezhortal",
             "repo": "flake8-dashboard",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "dashboard",
+              "flake8",
+              "html",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2324,12 +3545,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON formatter for Flake8 output",
+            "homepage": null,
             "id": 416545505,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T23:00:15Z",
+            "open_issues": 1,
             "owner": "PyCQA",
             "repo": "flake8-json",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "json",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         },
@@ -2340,12 +3573,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Flake8 formatter for GitHub Actions",
+            "homepage": "https://pypi.org/project/flake8-github",
             "id": 677831288,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T18:16:06Z",
+            "open_issues": 7,
             "owner": "maxkrivich",
             "repo": "flake8-github",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "flake8",
+              "flake8-extension",
+              "flake8-extensions",
+              "flake8-plugin",
+              "flake8-plugins",
+              "github-actions",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
         }
@@ -2354,15 +3600,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:43:25.770Z",
+    "last_updated": "2026-08-29T04:34:38.258Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
+      "homepage": null,
       "id": 156768939,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-21T07:29:57Z",
+      "open_issues": 1,
       "owner": "DmytroLitvinov",
       "repo": "awesome-flake8-extensions",
-      "stars": 1278
+      "stars": 1278,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "code-quality",
+        "collections",
+        "flake8",
+        "flake8-extensions",
+        "flake8-plugins",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "python"
+      ]
     },
     "original_repository_sha": "f5c81b40a9d83718a835c9b87c87e1051bd3b841",
     "enhanced_repository": "enhansome/enhansome-flake8-extensions",
