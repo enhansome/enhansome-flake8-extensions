@@ -238,7 +238,7 @@ Extensions for running flake8 not only on Python files.
 Wrappers around other tools making it possible to use them with flake8.
 
 * [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,949 | 🐛 82 | 🌐 Python | 📅 2026-08-27.
-* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,820 | 🐛 303 | 🌐 Python | 📅 2026-08-20.
+* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,820 | 🐛 304 | 🌐 Python | 📅 2026-08-20.
 * [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 13 | 🌐 Python | 📅 2023-09-13 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,246 | 🐛 260 | 🌐 Python | 📅 2026-08-24.
 * [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,719 | 🐛 1,082 | 🌐 Python | 📅 2026-08-27.
 
