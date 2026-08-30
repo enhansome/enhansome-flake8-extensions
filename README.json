@@ -177,8 +177,8 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T20:55:54Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-30T02:03:21Z",
+            "open_issues": 5,
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 6,
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:50:42.860Z",
+    "last_updated": "2026-08-30T06:36:12.880Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
