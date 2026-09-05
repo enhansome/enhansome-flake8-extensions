@@ -15,11 +15,11 @@
             "id": 124593057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:03:16Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-04T06:19:57Z",
+            "open_issues": 14,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2898,
+            "stars": 2899,
             "topics": [
               "code-quality",
               "flake8",
@@ -48,7 +48,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-02T01:48:18Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
             "stars": 1116,
@@ -177,11 +177,11 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T03:34:20Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-05T01:55:11Z",
+            "open_issues": 5,
             "owner": "SAP",
             "repo": "flake8-tergeo",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "flake8",
               "plugin",
@@ -348,7 +348,7 @@
             "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-warnings",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "clean-code",
               "code-quality",
@@ -601,7 +601,7 @@
             "open_issues": 9,
             "owner": "adamchainz",
             "repo": "flake8-comprehensions",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "flake8"
             ]
@@ -624,7 +624,7 @@
             "open_issues": 3,
             "owner": "PyCQA",
             "repo": "flake8-commas",
-            "stars": 134,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -645,7 +645,7 @@
             "open_issues": 8,
             "owner": "best-doctor",
             "repo": "flake8-class-attributes-order",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "code-standards",
               "flake8",
@@ -670,7 +670,7 @@
             "open_issues": 0,
             "owner": "pjknkda",
             "repo": "flake8-datetimez",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -733,7 +733,7 @@
             "open_issues": 12,
             "owner": "jsfehler",
             "repo": "flake8-multiline-containers",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "flake8",
               "flake8-extensions",
@@ -805,7 +805,7 @@
             "open_issues": 0,
             "owner": "cyyc1",
             "repo": "flake8-clean-block",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "flake8-extension",
               "flake8-extensions",
@@ -832,7 +832,7 @@
             "open_issues": 2,
             "owner": "expobrain",
             "repo": "flake8-datetime-utcnow-plugin",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -905,7 +905,7 @@
             "open_issues": 10,
             "owner": "guilatrova",
             "repo": "tryceratops",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "code",
               "hacktoberfest",
@@ -980,7 +980,7 @@
             "open_issues": 6,
             "owner": "pgjones",
             "repo": "flake8-sql",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "flake8",
               "python",
@@ -1056,7 +1056,7 @@
             "open_issues": 0,
             "owner": "MartinThoma",
             "repo": "flake8-scream",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "flake8",
               "flake8-plugin",
@@ -1114,7 +1114,7 @@
             "open_issues": 32,
             "owner": "globality-corp",
             "repo": "flake8-logging-format",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "microcosm"
             ]
@@ -1188,7 +1188,7 @@
             "open_issues": 16,
             "owner": "adamchainz",
             "repo": "flake8-logging",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 2,
             "owner": "adamchainz",
             "repo": "flake8-no-pep420",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -1392,7 +1392,7 @@
             "open_issues": 1,
             "owner": "tripcher",
             "repo": "flake8-forbidden-func",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -1419,7 +1419,7 @@
             "open_issues": 21,
             "owner": "PyCQA",
             "repo": "pep8-naming",
-            "stars": 530,
+            "stars": 531,
             "topics": [
               "flake8",
               "flake8-extensions",
@@ -1470,7 +1470,7 @@
             "open_issues": 5,
             "owner": "best-doctor",
             "repo": "flake8-variables-names",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "flake8",
               "flake8-plugin",
@@ -1495,7 +1495,7 @@
             "open_issues": 9,
             "owner": "Melevir",
             "repo": "flake8-functions-names",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "code-style",
               "contract",
@@ -1522,7 +1522,7 @@
             "open_issues": 3,
             "owner": "bagerard",
             "repo": "flake8-test-name",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -1549,7 +1549,7 @@
             "open_issues": 8,
             "owner": "mschwager",
             "repo": "cohesion",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "class",
               "code",
@@ -1611,7 +1611,7 @@
             "open_issues": 3,
             "owner": "best-doctor",
             "repo": "flake8-annotations-complexity",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "complexity",
               "flake8",
@@ -1636,7 +1636,7 @@
             "open_issues": 7,
             "owner": "best-doctor",
             "repo": "flake8-functions",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "code-standards",
               "flake8",
@@ -1662,7 +1662,7 @@
             "open_issues": 6,
             "owner": "best-doctor",
             "repo": "flake8-expression-complexity",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "code-standards",
               "flake8",
@@ -1826,8 +1826,8 @@
             "id": 193312845,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-29T01:08:22Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-05T00:37:29Z",
+            "open_issues": 20,
             "owner": "xuhdev",
             "repo": "flake8-executable",
             "stars": 20,
@@ -1914,7 +1914,7 @@
             "open_issues": 0,
             "owner": "orsinium-labs",
             "repo": "flake8-comments",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "clean-code",
               "code-quality",
@@ -2040,7 +2040,7 @@
             "open_issues": 30,
             "owner": "jsh9",
             "repo": "pydoclint",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "docstring",
               "docstring-checker",
@@ -2195,7 +2195,7 @@
             "id": 126496135,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T05:05:17Z",
+            "last_commit": "2026-09-04T11:05:36Z",
             "open_issues": 57,
             "owner": "andreoliwa",
             "repo": "nitpick",
@@ -2254,7 +2254,7 @@
             "open_issues": 2,
             "owner": "john-hen",
             "repo": "Flake8-pyproject",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "flake8",
               "flake8-plugin",
@@ -2477,7 +2477,7 @@
             "open_issues": 5,
             "owner": "adamchainz",
             "repo": "flake8-tidy-imports",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "flake8"
             ]
@@ -2718,7 +2718,7 @@
             "open_issues": 34,
             "owner": "m-burst",
             "repo": "flake8-pytest-style",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "flake8",
               "flake8-extensions",
@@ -2746,7 +2746,7 @@
             "open_issues": 12,
             "owner": "jamescooke",
             "repo": "flake8-aaa",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "arrange-act-assert",
               "code-quality",
@@ -2992,7 +2992,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T05:41:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "TylerYep",
             "repo": "flake8-future-annotations",
             "stars": 15,
@@ -3222,7 +3222,7 @@
             "open_issues": 8,
             "owner": "mlshapiro",
             "repo": "jupyterlab-flake8",
-            "stars": 112,
+            "stars": 111,
             "topics": [
               "flake8",
               "jupyterlab",
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:50:33.078Z",
+    "last_updated": "2026-09-05T05:41:51.918Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
@@ -3612,7 +3612,7 @@
       "open_issues": 1,
       "owner": "DmytroLitvinov",
       "repo": "awesome-flake8-extensions",
-      "stars": 1278,
+      "stars": 1279,
       "topics": [
         "awesome",
         "awesome-list",
