@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2899,
+            "stars": 2901,
             "topics": [
               "code-quality",
               "flake8",
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:41:51.918Z",
+    "last_updated": "2026-09-06T05:53:38.409Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
