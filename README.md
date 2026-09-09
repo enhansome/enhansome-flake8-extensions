@@ -27,7 +27,7 @@ Inspired after reading a [post](https://web.archive.org/web/20230322220629/https
 
 Extensions with more than 20 rules inside.
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,898 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - The strictest and most opinionated Python linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,898 | 🐛 16 | 🌐 Python | 📅 2026-09-09 - The strictest and most opinionated Python linter ever.
 * [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) ⭐ 1,116 | 🐛 61 | 🌐 Python | 📅 2026-09-07 - Finding likely bugs and design problems in your program.
 * [hacking](https://github.com/openstack/hacking) ⭐ 243 | 🐛 0 | 🌐 Python | 📅 2026-06-11 - Set of flake8 plugins that test and enforce the [OpenStack StyleGuide](https://docs.openstack.org/hacking/latest/user/hacking.html#styleguide).
 * [flake8-simplify](https://github.com/MartinThoma/flake8-simplify) ⭐ 193 | 🐛 57 | 🌐 Python | 📅 2026-07-21 - Plugin that helps you to simplify code.
@@ -48,7 +48,7 @@ Extensions for finding possible bugs.
 * [flake8-warnings](https://github.com/orsinium-labs/flake8-warnings) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2023-09-28 - Detect usage of deprecated modules, classes, and functions.
 * [flake8-async](https://github.com/cooperlees/flake8-async) ⚠️ Archived - A flake8 plugin that checks for bad async / asyncio practices.
 * [flake8-dunder-all](https://github.com/python-formate/flake8-dunder-all) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-07-10 - Ensures that modules have defined `__all__`.
-* [flake8-encodings](https://github.com/python-formate/flake8-encodings) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-04-07 - Identify incorrect use of encodings.
+* [flake8-encodings](https://github.com/python-formate/flake8-encodings) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-04-07 - Identify incorrect use of encodings.
 * [flake8-secure-coding-standard](https://github.com/Takishima/flake8-secure-coding-standard) ⭐ 5 | 🐛 6 | 🌐 Python | 📅 2026-09-07 - Enforce some secure coding standards for Python. <!-- TODO(@orsinium): move into 'All-in-one' when grows -->
 * [flake8-slots](https://github.com/python-formate/flake8-slots) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2026-04-07 - Require `__slots__` to be defined for subclasses of immutable types.
 * [flake8-useless-assert](https://github.com/decorator-factory/flake8-useless-assert) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2023-01-31 - Detect useless `assert` statements.
@@ -60,7 +60,7 @@ Extensions for finding possible bugs.
 
 Extensions for finding stylistic issues and enforcing consistent codestyle.
 
-* [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) ⭐ 466 | 🐛 11 | 🌐 Python | 📅 2026-09-07 - Helps you write better list/set/dict comprehensions.
+* [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) ⭐ 466 | 🐛 10 | 🌐 Python | 📅 2026-09-08 - Helps you write better list/set/dict comprehensions.
 * [flake8-commas](https://github.com/PyCQA/flake8-commas) ⭐ 135 | 🐛 3 | 🌐 Python | 📅 2026-01-05 - Enforcing trailing commas in Python.
 * [flake8-class-attributes-order](https://github.com/best-doctor/flake8-class-attributes-order) ⭐ 61 | 🐛 8 | 🌐 Python | 📅 2025-03-20 - Checks classes attributes order.
 * [flake8-datetimez](https://github.com/pjknkda/flake8-datetimez) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-08-12 - A plugin for flake8 to ban the usage of unsafe naive datetime class.
@@ -69,7 +69,7 @@ Extensions for finding stylistic issues and enforcing consistent codestyle.
 * [flake8-multiline-containers](https://github.com/jsfehler/flake8-multiline-containers) ⭐ 15 | 🐛 12 | 🌐 Python | 📅 2026-06-19 - Plugin to ensure a consistent format for multiline containers.
 * [flake8-newspaper-style](https://github.com/mobility-university/flake8-newspaper-style) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2022-10-16 - Ensures the function definition goes below its usage.
 * [flake8-literal](https://github.com/plinss/flake8-literal) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-06-28 - Enforces consistent styling of string literals.
-* [flake8-clean-block](https://github.com/cyyc1/flake8-clean-block) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-10-08 - Plugin to enforce a blank line after if/for/while/with/try blocks.
+* [flake8-clean-block](https://github.com/cyyc1/flake8-clean-block) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2022-10-08 - Plugin to enforce a blank line after if/for/while/with/try blocks.
 * [flake8-datetime-utcnow-plugin](https://github.com/expobrain/flake8-datetime-utcnow-plugin) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-01-01 -  Plugin to warn the developer of the usage of `datetime.utcnow()`.
 * [flake8-indent-in-def](https://github.com/cyyc1/flake8-indent-in-def) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2022-10-08 - Plugin to enforce 8-space indentation in function and class definitions.
 * [flake8-all-not-strings](https://github.com/ggupta2005/flake8-all-not-strings) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-02-27 - Checks that if modules under `__all__` are defined as strings.
@@ -89,14 +89,14 @@ Extensions for finding stylistic issues and enforcing consistent codestyle.
 
 Extensions banning specific Python features.
 
-* [flake8-logging-format](https://github.com/globality-corp/flake8-logging-format) ⭐ 138 | 🐛 32 | 🌐 Python | 📅 2026-04-12 - Report string formatting inside logging.
+* [flake8-logging-format](https://github.com/globality-corp/flake8-logging-format) ⭐ 138 | 🐛 32 | 🌐 Python | 📅 2026-09-09 - Report string formatting inside logging.
 * [flake8-print](https://github.com/JBKahn/flake8-print) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2023-07-16 - Report `print` statement.
 * [flake8-broken-line](https://github.com/wemake-services/flake8-broken-line) ⭐ 111 | 🐛 14 | 🌐 Python | 📅 2025-01-03 - Report line break with backslash (`\`).
-* [flake8-logging](https://github.com/adamchainz/flake8-logging) ⭐ 87 | 🐛 17 | 🌐 Python | 📅 2026-09-07 - Reports issues in using the standard library logging module.
+* [flake8-logging](https://github.com/adamchainz/flake8-logging) ⭐ 87 | 🐛 16 | 🌐 Python | 📅 2026-09-08 - Reports issues in using the standard library logging module.
 * [flake8-use-fstring](https://github.com/MichaelKim0407/flake8-use-fstring) ⭐ 50 | 🐛 4 | 🌐 Python | 📅 2023-11-07 - Report `%`-formatting and `str.format`.
 * [flake8-walrus](https://github.com/asottile/flake8-walrus) ⚠️ Archived - Report walrus operator (`:=`).
 * [flake8-debugger](https://github.com/JBKahn/flake8-debugger) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2022-04-30 - Report debug statements (`pdb`, `ipdb`).
-* [flake8-no-pep420](https://github.com/adamchainz/flake8-no-pep420) ⭐ 30 | 🐛 3 | 🌐 Python | 📅 2026-09-07 - Report implicit namespace packages.
+* [flake8-no-pep420](https://github.com/adamchainz/flake8-no-pep420) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2026-09-08 - Report implicit namespace packages.
 * [flake8-match](https://github.com/asottile/flake8-match) ⚠️ Archived - Report `match` statement.
 * [flake8-no-implicit-concat](https://github.com/10sr/flake8-no-implicit-concat) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-08-31 - Report implicit string concatenation.
 * [flake8-pep3101](https://github.com/gforcada/flake8-pep3101) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2025-10-25 - Report `%`-formatting.
@@ -176,7 +176,7 @@ Extensions for checking import statements.
 
 * [flake8-import-order](https://github.com/PyCQA/flake8-import-order) ⭐ 281 | 🐛 14 | 🌐 Python | 📅 2026-09-01 - Include checks import order against various Python Style Guides.
 * [flake8-type-checking](https://github.com/snok/flake8-type-checking) ⭐ 128 | 🐛 4 | 🌐 Python | 📅 2026-02-18 - Plugin lets you know which imports to move in or out of type-checking blocks.
-* [flake8-tidy-imports](https://github.com/adamchainz/flake8-tidy-imports) ⭐ 76 | 🐛 6 | 🌐 Python | 📅 2026-09-07 - Extension that helps you write tidier imports.
+* [flake8-tidy-imports](https://github.com/adamchainz/flake8-tidy-imports) ⭐ 76 | 🐛 5 | 🌐 Python | 📅 2026-09-08 - Extension that helps you write tidier imports.
 * [flake8-lazy](https://github.com/henryiii/flake8-lazy) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Detect modules that can be lazy imported in Python 3.15+.
 * [flake8-future-import](https://github.com/xZise/flake8-future-import) ⭐ 18 | 🐛 6 | 🌐 Python | 📅 2022-10-18 - Extension to check imports.
 * [flake8-alphabetize](https://github.com/tlocke/flake8-alphabetize) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-05-23 - Checking the order of `import` statements and the `__all__` list.
@@ -237,10 +237,10 @@ Extensions for running flake8 not only on Python files.
 
 Wrappers around other tools making it possible to use them with flake8.
 
-* [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,951 | 🐛 91 | 🌐 Python | 📅 2026-08-27.
-* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,834 | 🐛 309 | 🌐 Python | 📅 2026-09-04.
-* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,251 | 🐛 259 | 🌐 Python | 📅 2026-08-29.
-* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,722 | 🐛 1,083 | 🌐 Python | 📅 2026-09-07.
+* [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,951 | 🐛 92 | 🌐 Python | 📅 2026-08-27.
+* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,836 | 🐛 309 | 🌐 Python | 📅 2026-09-04.
+* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,253 | 🐛 259 | 🌐 Python | 📅 2026-08-29.
+* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,722 | 🐛 1,084 | 🌐 Python | 📅 2026-09-08.
 
 ## Formatters
 
@@ -257,4 +257,4 @@ Extensions for formatting flake8 output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
