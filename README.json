@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2898,
+            "stars": 2900,
             "topics": [
               "code-quality",
               "flake8",
@@ -51,7 +51,7 @@
             "open_issues": 55,
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
-            "stars": 1116,
+            "stars": 1117,
             "topics": [
               "code-quality",
               "linter",
@@ -177,7 +177,7 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T09:16:22Z",
+            "last_commit": "2026-09-11T21:28:52Z",
             "open_issues": 4,
             "owner": "SAP",
             "repo": "flake8-tergeo",
@@ -1826,8 +1826,8 @@
             "id": 193312845,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-10T23:44:24Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-12T00:40:43Z",
+            "open_issues": 20,
             "owner": "xuhdev",
             "repo": "flake8-executable",
             "stars": 20,
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:55:28.356Z",
+    "last_updated": "2026-09-12T05:43:47.710Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
@@ -3612,7 +3612,7 @@
       "open_issues": 1,
       "owner": "DmytroLitvinov",
       "repo": "awesome-flake8-extensions",
-      "stars": 1279,
+      "stars": 1280,
       "topics": [
         "awesome",
         "awesome-list",
