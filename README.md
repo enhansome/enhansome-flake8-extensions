@@ -147,7 +147,7 @@ Extensions for checking comments.
 
 Extensions for checking docstrings.
 
-* [pydoclint](https://github.com/jsh9/pydoclint) ⭐ 226 | 🐛 30 | 🌐 Python | 📅 2026-07-03 - A Python docstring linter that checks arguments, returns, yields, and raises sections.
+* [pydoclint](https://github.com/jsh9/pydoclint) ⭐ 228 | 🐛 30 | 🌐 Python | 📅 2026-07-03 - A Python docstring linter that checks arguments, returns, yields, and raises sections.
 * [flake8-docstrings](https://github.com/pycqa/flake8-docstrings) ⭐ 161 | 🐛 3 | 🌐 Python | 📅 2026-07-13 - Include checks provided by pep257.
 * [flake8-spellcheck](https://github.com/MichaelAquilina/flake8-spellcheck) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2024-08-27 - Spellcheck variables, classnames, comments, docstrings etc.
 * [flake8-rst-docstrings](https://github.com/peterjc/flake8-rst-docstrings) ⭐ 58 | 🐛 5 | 🌐 Python | 📅 2026-08-03 - Validate Python docstrings as reStructuredText (RST).
@@ -237,9 +237,9 @@ Extensions for running flake8 not only on Python files.
 
 Wrappers around other tools making it possible to use them with flake8.
 
-* [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,953 | 🐛 97 | 🌐 Python | 📅 2026-08-27.
-* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,845 | 🐛 311 | 🌐 Python | 📅 2026-09-17.
-* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,269 | 🐛 258 | 🌐 Python | 📅 2026-08-29.
+* [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,954 | 🐛 98 | 🌐 Python | 📅 2026-09-19.
+* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,849 | 🐛 312 | 🌐 Python | 📅 2026-09-18.
+* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,272 | 🐛 258 | 🌐 Python | 📅 2026-08-29.
 * [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,725 | 🐛 1,034 | 🌐 Python | 📅 2026-09-15.
 
 ## Formatters
@@ -257,4 +257,4 @@ Extensions for formatting flake8 output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

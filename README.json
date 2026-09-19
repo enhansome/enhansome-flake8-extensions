@@ -177,7 +177,7 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T04:56:18Z",
+            "last_commit": "2026-09-18T23:49:45Z",
             "open_issues": 4,
             "owner": "SAP",
             "repo": "flake8-tergeo",
@@ -2040,7 +2040,7 @@
             "open_issues": 30,
             "owner": "jsh9",
             "repo": "pydoclint",
-            "stars": 226,
+            "stars": 228,
             "topics": [
               "docstring",
               "docstring-checker",
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:52:52.769Z",
+    "last_updated": "2026-09-19T05:48:48.693Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
