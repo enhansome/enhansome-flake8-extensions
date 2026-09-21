@@ -15,8 +15,8 @@
             "id": 124593057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T13:43:38Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-21T02:03:52Z",
+            "open_issues": 16,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
             "stars": 2906,
@@ -51,7 +51,7 @@
             "open_issues": 55,
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
-            "stars": 1119,
+            "stars": 1118,
             "topics": [
               "code-quality",
               "linter",
@@ -177,7 +177,7 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T23:49:45Z",
+            "last_commit": "2026-09-21T01:32:16Z",
             "open_issues": 4,
             "owner": "SAP",
             "repo": "flake8-tergeo",
@@ -877,7 +877,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-27T17:59:43Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "ggupta2005",
             "repo": "flake8-all-not-strings",
             "stars": 0,
@@ -3600,7 +3600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:10:26.379Z",
+    "last_updated": "2026-09-21T06:16:04.380Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
