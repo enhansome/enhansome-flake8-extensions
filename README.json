@@ -15,11 +15,11 @@
             "id": 124593057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:59:19Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-23T02:02:20Z",
+            "open_issues": 15,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2908,
+            "stars": 2909,
             "topics": [
               "code-quality",
               "flake8",
@@ -1100,29 +1100,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "flake8-logging-format",
-          "description": "Report string formatting inside logging.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Flake8 extension to validate (lack of) logging format strings",
-            "homepage": null,
-            "id": 88560488,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-09T05:53:59Z",
-            "open_issues": 32,
-            "owner": "globality-corp",
-            "repo": "flake8-logging-format",
-            "stars": 138,
-            "topics": [
-              "microcosm"
-            ]
-          },
-          "first_seen": "2026-08-28T12:43:25.770Z"
-        },
-        {
-          "node_type": "item",
           "title": "flake8-print",
           "description": "Report statement.",
           "children": [],
@@ -1826,7 +1803,7 @@
             "id": 193312845,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-13T21:12:47Z",
+            "last_commit": "2026-09-23T02:59:40Z",
             "open_issues": 21,
             "owner": "xuhdev",
             "repo": "flake8-executable",
@@ -2195,7 +2172,7 @@
             "id": 126496135,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T20:06:26Z",
+            "last_commit": "2026-09-23T03:58:20Z",
             "open_issues": 57,
             "owner": "andreoliwa",
             "repo": "nitpick",
@@ -3143,8 +3120,8 @@
             "id": 151003999,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T19:19:54Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-22T14:42:37Z",
+            "open_issues": 48,
             "owner": "scrapy",
             "repo": "scrapy-lint",
             "stars": 22,
@@ -3600,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:08:54.745Z",
+    "last_updated": "2026-09-23T05:55:14.033Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
@@ -3612,7 +3589,7 @@
       "open_issues": 1,
       "owner": "DmytroLitvinov",
       "repo": "awesome-flake8-extensions",
-      "stars": 1280,
+      "stars": 1281,
       "topics": [
         "awesome",
         "awesome-list",
