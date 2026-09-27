@@ -177,7 +177,7 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T01:49:40Z",
+            "last_commit": "2026-09-26T19:24:22Z",
             "open_issues": 5,
             "owner": "SAP",
             "repo": "flake8-tergeo",
@@ -2013,8 +2013,8 @@
             "id": 639678591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-03T17:47:43Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-27T04:54:52Z",
+            "open_issues": 31,
             "owner": "jsh9",
             "repo": "pydoclint",
             "stars": 228,
@@ -3121,7 +3121,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-23T12:02:10Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "scrapy",
             "repo": "scrapy-lint",
             "stars": 22,
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:07:17.868Z",
+    "last_updated": "2026-09-27T06:34:54.964Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
