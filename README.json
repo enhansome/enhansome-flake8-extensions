@@ -15,8 +15,8 @@
             "id": 124593057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:12:30Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-03T05:41:43Z",
+            "open_issues": 16,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
             "stars": 2918,
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:05.177Z",
+    "last_updated": "2026-10-03T06:26:11.608Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",

@@ -27,7 +27,7 @@ Inspired after reading a [post](https://web.archive.org/web/20230322220629/https
 
 Extensions with more than 20 rules inside.
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 18 | 🌐 Python | 📅 2026-10-02 - The strictest and most opinionated Python linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,918 | 🐛 16 | 🌐 Python | 📅 2026-10-03 - The strictest and most opinionated Python linter ever.
 * [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) ⭐ 1,121 | 🐛 52 | 🌐 Python | 📅 2026-09-30 - Finding likely bugs and design problems in your program.
 * [hacking](https://github.com/openstack/hacking) ⭐ 243 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Set of flake8 plugins that test and enforce the [OpenStack StyleGuide](https://docs.openstack.org/hacking/latest/user/hacking.html#styleguide).
 * [flake8-simplify](https://github.com/MartinThoma/flake8-simplify) ⭐ 193 | 🐛 57 | 🌐 Python | 📅 2026-07-21 - Plugin that helps you to simplify code.
@@ -238,9 +238,9 @@ Extensions for running flake8 not only on Python files.
 Wrappers around other tools making it possible to use them with flake8.
 
 * [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,960 | 🐛 94 | 🌐 Python | 📅 2026-10-01.
-* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,860 | 🐛 298 | 🌐 Python | 📅 2026-10-01.
+* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,860 | 🐛 299 | 🌐 Python | 📅 2026-10-01.
 * [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,290 | 🐛 260 | 🌐 Python | 📅 2026-09-21.
-* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,731 | 🐛 1,031 | 🌐 Python | 📅 2026-10-02.
+* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,731 | 🐛 1,035 | 🌐 Python | 📅 2026-10-02.
 
 ## Formatters
 
