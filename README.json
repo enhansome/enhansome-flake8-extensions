@@ -15,11 +15,11 @@
             "id": 124593057,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T05:02:33Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-11T06:31:10Z",
+            "open_issues": 17,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2922,
+            "stars": 2923,
             "topics": [
               "code-quality",
               "flake8",
@@ -48,7 +48,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T21:30:52Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "PyCQA",
             "repo": "flake8-bugbear",
             "stars": 1122,
@@ -1495,7 +1495,7 @@
             "id": 349221736,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-24T16:15:46Z",
+            "last_commit": "2026-10-11T01:00:25Z",
             "open_issues": 3,
             "owner": "bagerard",
             "repo": "flake8-test-name",
@@ -3041,7 +3041,7 @@
             "open_issues": 13,
             "owner": "deppen8",
             "repo": "pandas-vet",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "flake8",
               "flake8-plugin",
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:00:24.191Z",
+    "last_updated": "2026-10-11T07:07:43.076Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
