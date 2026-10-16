@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2930,
+            "stars": 2932,
             "topics": [
               "code-quality",
               "flake8",
@@ -177,8 +177,8 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T10:46:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-15T22:45:03Z",
+            "open_issues": 3,
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 7,
@@ -3147,8 +3147,8 @@
             "id": 311745381,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-15T05:29:45Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-15T10:03:26Z",
+            "open_issues": 1,
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12,
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:51:54.486Z",
+    "last_updated": "2026-10-16T05:48:01.052Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
