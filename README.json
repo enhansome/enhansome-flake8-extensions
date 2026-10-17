@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2932,
+            "stars": 2935,
             "topics": [
               "code-quality",
               "flake8",
@@ -125,7 +125,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-01-07T12:21:46Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "dlint-py",
             "repo": "dlint",
             "stars": 178,
@@ -3577,7 +3577,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:48:01.052Z",
+    "last_updated": "2026-10-17T05:33:07.122Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
