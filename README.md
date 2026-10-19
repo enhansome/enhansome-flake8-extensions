@@ -27,13 +27,13 @@ Inspired after reading a [post](https://web.archive.org/web/20230322220629/https
 
 Extensions with more than 20 rules inside.
 
-* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,935 | 🐛 16 | 🌐 Python | 📅 2026-10-14 - The strictest and most opinionated Python linter ever.
+* [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,936 | 🐛 15 | 🌐 Python | 📅 2026-10-19 - The strictest and most opinionated Python linter ever.
 * [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) ⭐ 1,122 | 🐛 45 | 🌐 Python | 📅 2026-10-15 - Finding likely bugs and design problems in your program.
 * [hacking](https://github.com/openstack/hacking) ⭐ 243 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Set of flake8 plugins that test and enforce the [OpenStack StyleGuide](https://docs.openstack.org/hacking/latest/user/hacking.html#styleguide).
 * [flake8-simplify](https://github.com/MartinThoma/flake8-simplify) ⭐ 193 | 🐛 58 | 🌐 Python | 📅 2026-10-18 - Plugin that helps you to simplify code.
 * [dlint](https://github.com/dlint-py/dlint) ⭐ 178 | 🐛 25 | 🌐 Python | 📅 2026-01-07 - Tool for encouraging best coding practices and helping ensure Python code is secure.
 * [flake8-pie](https://github.com/sbdchd/flake8-pie) ⚠️ Archived - Extension that implements misc. lints.
-* [flake8-tergeo](https://github.com/SAP/flake8-tergeo) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-10-17 - Adds many new rules to improve your code quality and brings a curated and actively maintained list of other plugins including flake8-bugbear.
+* [flake8-tergeo](https://github.com/SAP/flake8-tergeo) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-10-19 - Adds many new rules to improve your code quality and brings a curated and actively maintained list of other plugins including flake8-bugbear.
 
 ## Bugs
 
@@ -81,7 +81,7 @@ Extensions for finding stylistic issues and enforcing consistent codestyle.
 * [flake8-return](https://github.com/afonasev/flake8-return) ⭐ 60 | 🐛 14 | 🌐 Python | 📅 2025-10-08 - Plugin that checks return values.
 * [flake8-sql](https://github.com/pgjones/flake8-sql) ⭐ 27 | 🐛 6 | 🌐 Python | 📅 2022-06-15 - Plugin that checks SQL code against opinionated style rules.
 * [flake8-strict](https://github.com/smarkets/flake8-strict) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2018-05-30 - Checks Python code against a set of opinionated style rules.
-* [flake8-picky-parentheses](https://github.com/robsdedude/flake8-picky-parentheses) ⭐ 9 | 🐛 4 | 🌐 Python | 📅 2026-08-11 - Checks for redundant parentheses and alignment of parentheses and brackets.
+* [flake8-picky-parentheses](https://github.com/robsdedude/flake8-picky-parentheses) ⭐ 9 | 🐛 6 | 🌐 Python | 📅 2026-10-19 - Checks for redundant parentheses and alignment of parentheses and brackets.
 * [flake8-scream](https://github.com/MartinThoma/flake8-scream) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2022-11-19 - Rules which do have known false-positives but might still be useful for a one-time run.
 * [flake8-too-many](https://github.com/queensferryme/flake8-too-many) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-12 - Plugin that prevents you from writing 'too many' bad codes.
 
@@ -161,7 +161,7 @@ Tools empowering flake8.
 
 * [nitpick](https://github.com/andreoliwa/nitpick) ⭐ 412 | 🐛 58 | 🌐 Python | 📅 2026-10-12 - Enforce the same lint configuration (flake8, isort, mypy, pylint) across multiple Python projects.
 * [yesqa](https://github.com/asottile/yesqa) ⭐ 263 | 🐛 0 | 🌐 Python | 📅 2026-10-13 - A tool to automatically remove unnecessary `# noqa` comments.
-* [flake8-pyproject](https://github.com/john-hen/Flake8-pyproject) ⭐ 246 | 🐛 2 | 🌐 Python | 📅 2026-07-20 - Flake8 plug-in loading the configuration from pyproject.toml.
+* [flake8-pyproject](https://github.com/john-hen/Flake8-pyproject) ⭐ 246 | 🐛 3 | 🌐 Python | 📅 2026-07-20 - Flake8 plug-in loading the configuration from pyproject.toml.
 * [flakehell](https://github.com/flakehell/flakehell) ⭐ 88 | 🐛 21 | 🌐 Python | 📅 2025-08-20 - Wrapper to make it nice, legacy-friendly, and configurable.
 * [flake8-codes](https://github.com/orsinium-labs/flake8-codes) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-05-23 - CLI tool to introspect flake8 plugins and their codes.
 * [flake8-ruler](https://github.com/orsinium-labs/flake8-ruler) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2022-01-28 - More powerful configs for flake8.
@@ -220,7 +220,7 @@ Extensions for linting usage of specific libraries.
 * [TorchFix](https://github.com/pytorch-labs/torchfix) ⚠️ Archived - Plugin for code that uses PyTorch.
 * [flake8-fastapi](https://github.com/Kludex/flake8-fastapi) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2023-01-29 - Checks FastAPI code against opinionated style rules.
 * [flake8-scrapy](https://github.com/stummjr/flake8-scrapy) ⭐ 22 | 🐛 41 | 🌐 Python | 📅 2026-10-08 - Plugin to catch common issues on Scrapy spiders.
-* [flake8-django-migrations](https://github.com/browniebroke/flake8-django-migrations) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-10-15 - Plugin to lint for backwards incompatible database migrations in Django.
+* [flake8-django-migrations](https://github.com/browniebroke/flake8-django-migrations) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2026-10-19 - Plugin to lint for backwards incompatible database migrations in Django.
 * [flake8-numba](https://github.com/mflova/flake8-numba) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2023-07-23 - Plugin that facilitates code development with `numba` package.
 
 ## Integrations
@@ -237,10 +237,10 @@ Extensions for running flake8 not only on Python files.
 
 Wrappers around other tools making it possible to use them with flake8.
 
-* [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,961 | 🐛 91 | 🌐 Python | 📅 2026-10-15.
-* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-10-05 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,941 | 🐛 298 | 🌐 Python | 📅 2026-10-12.
-* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,322 | 🐛 262 | 🌐 Python | 📅 2026-10-12.
-* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,739 | 🐛 1,024 | 🌐 Python | 📅 2026-10-16.
+* [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2025-10-25 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,961 | 🐛 87 | 🌐 Python | 📅 2026-10-18.
+* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2026-10-05 - Wrapper around [black](https://github.com/psf/black) ⭐ 41,947 | 🐛 294 | 🌐 Python | 📅 2026-10-18.
+* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,326 | 🐛 262 | 🌐 Python | 📅 2026-10-12.
+* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,739 | 🐛 1,027 | 🌐 Python | 📅 2026-10-18.
 
 ## Formatters
 
@@ -257,4 +257,4 @@ Extensions for formatting flake8 output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
