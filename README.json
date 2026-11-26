@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "wemake-services",
             "repo": "wemake-python-styleguide",
-            "stars": 2951,
+            "stars": 2952,
             "topics": [
               "code-quality",
               "flake8",
@@ -177,8 +177,8 @@
             "id": 923567597,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T21:38:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-25T19:13:13Z",
+            "open_issues": 5,
             "owner": "SAP",
             "repo": "flake8-tergeo",
             "stars": 7,
@@ -458,8 +458,14 @@
             "stars": 5,
             "topics": [
               "flake8",
+              "flake8-extension",
+              "flake8-extensions",
               "flake8-plugin",
-              "python"
+              "linter-flake8",
+              "linter-plugin",
+              "linter-rules",
+              "python",
+              "python3"
             ]
           },
           "first_seen": "2026-08-28T12:43:25.770Z"
@@ -1991,7 +1997,7 @@
             "open_issues": 47,
             "owner": "jsh9",
             "repo": "pydoclint",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "docstring",
               "docstring-checker",
@@ -2397,7 +2403,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-04T14:06:56Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "snok",
             "repo": "flake8-type-checking",
             "stars": 129,
@@ -3121,8 +3127,8 @@
             "id": 311745381,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-24T22:52:27Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-26T05:45:54Z",
+            "open_issues": 2,
             "owner": "browniebroke",
             "repo": "flake8-django-migrations",
             "stars": 12,
@@ -3195,8 +3201,8 @@
             "id": 77032889,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T15:38:07Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-25T12:25:47Z",
+            "open_issues": 23,
             "owner": "PyCQA",
             "repo": "flake8-pyi",
             "stars": 86,
@@ -3551,7 +3557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:46:49.747Z",
+    "last_updated": "2026-11-26T09:27:35.753Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
@@ -3563,7 +3569,7 @@
       "open_issues": 1,
       "owner": "DmytroLitvinov",
       "repo": "awesome-flake8-extensions",
-      "stars": 1282,
+      "stars": 1283,
       "topics": [
         "awesome",
         "awesome-list",
