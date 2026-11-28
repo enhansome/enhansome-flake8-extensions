@@ -28,12 +28,12 @@ Inspired after reading a [post](https://web.archive.org/web/20230322220629/https
 Extensions with more than 20 rules inside.
 
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) ⭐ 2,952 | 🐛 13 | 🌐 Python | 📅 2026-11-27 - The strictest and most opinionated Python linter ever.
-* [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) ⭐ 1,126 | 🐛 39 | 🌐 Python | 📅 2026-11-24 - Finding likely bugs and design problems in your program.
+* [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) ⭐ 1,126 | 🐛 39 | 🌐 Python | 📅 2026-11-27 - Finding likely bugs and design problems in your program.
 * [hacking](https://github.com/openstack/hacking) ⭐ 243 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Set of flake8 plugins that test and enforce the [OpenStack StyleGuide](https://docs.openstack.org/hacking/latest/user/hacking.html#styleguide).
 * [flake8-simplify](https://github.com/MartinThoma/flake8-simplify) ⭐ 195 | 🐛 54 | 🌐 Python | 📅 2026-11-01 - Plugin that helps you to simplify code.
 * [dlint](https://github.com/dlint-py/dlint) ⭐ 179 | 🐛 23 | 🌐 Python | 📅 2026-10-20 - Tool for encouraging best coding practices and helping ensure Python code is secure.
 * [flake8-pie](https://github.com/sbdchd/flake8-pie) ⚠️ Archived - Extension that implements misc. lints.
-* [flake8-tergeo](https://github.com/SAP/flake8-tergeo) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2026-11-26 - Adds many new rules to improve your code quality and brings a curated and actively maintained list of other plugins including flake8-bugbear.
+* [flake8-tergeo](https://github.com/SAP/flake8-tergeo) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2026-11-28 - Adds many new rules to improve your code quality and brings a curated and actively maintained list of other plugins including flake8-bugbear.
 
 ## Bugs
 
@@ -71,7 +71,7 @@ Extensions for finding stylistic issues and enforcing consistent codestyle.
 * [flake8-clean-block](https://github.com/cyyc1/flake8-clean-block) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2022-10-08 - Plugin to enforce a blank line after if/for/while/with/try blocks.
 * [flake8-datetime-utcnow-plugin](https://github.com/expobrain/flake8-datetime-utcnow-plugin) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-01-01 -  Plugin to warn the developer of the usage of `datetime.utcnow()`.
 * [flake8-indent-in-def](https://github.com/cyyc1/flake8-indent-in-def) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2022-10-08 - Plugin to enforce 8-space indentation in function and class definitions.
-* [flake8-all-not-strings](https://github.com/ggupta2005/flake8-all-not-strings) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-10-07 - Checks that if modules under `__all__` are defined as strings.
+* [flake8-all-not-strings](https://github.com/ggupta2005/flake8-all-not-strings) ⭐ 0 | 🐛 3 | 🌐 Python | 📅 2026-11-28 - Checks that if modules under `__all__` are defined as strings.
 * [flake8-multiline-containers](https://github.com/jsfehler/flake8-multiline-containers) - Plugin to ensure a consistent format for multiline containers.
 
 <!--lint ignore awesome-spell-check-->
@@ -108,8 +108,8 @@ Extensions banning specific Python features.
 
 Extensions for checking names of variables, functions, etc.
 
-* [pep8-naming](https://github.com/PyCQA/pep8-naming) ⭐ 534 | 🐛 20 | 🌐 Python | 📅 2026-11-07 - Check the PEP-8 naming conventions.
-* [flake8-builtins](https://github.com/gforcada/flake8-builtins) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2026-11-01 - Check for Python builtins being used as variables or parameters.
+* [pep8-naming](https://github.com/PyCQA/pep8-naming) ⭐ 534 | 🐛 21 | 🌐 Python | 📅 2026-11-07 - Check the PEP-8 naming conventions.
+* [flake8-builtins](https://github.com/gforcada/flake8-builtins) ⭐ 118 | 🐛 5 | 🌐 Python | 📅 2026-11-27 - Check for Python builtins being used as variables or parameters.
 * [flake8-variables-names](https://github.com/best-doctor/flake8-variables-names) ⭐ 54 | 🐛 5 | 🌐 Python | 📅 2024-06-28 - Extension that helps to make more readable variables names.
 * [flake8-functions-names](https://github.com/Melevir/flake8-functions-names) ⭐ 28 | 🐛 9 | 🌐 Python | 📅 2023-03-13 - Validate functions names, decomposition and conformity with annotations.
 * [flake8-test-name](https://github.com/bagerard/flake8-test-name) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-10-11 - Checks that test functions names follow a given convention.
@@ -238,9 +238,9 @@ Extensions for running flake8 not only on Python files.
 Wrappers around other tools making it possible to use them with flake8.
 
 * [flake8-isort](https://github.com/gforcada/flake8-isort) ⭐ 188 | 🐛 1 | 🌐 Python | 📅 2026-11-02 - Wrapper around [isort](https://github.com/PyCQA/isort) ⭐ 6,967 | 🐛 107 | 🌐 Python | 📅 2026-11-25.
-* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 3 | 🌐 Python | 📅 2026-11-16 - Wrapper around [black](https://github.com/psf/black) ⭐ 42,218 | 🐛 280 | 🌐 Python | 📅 2026-11-25.
-* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,407 | 🐛 268 | 🌐 Python | 📅 2026-11-09.
-* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,749 | 🐛 1,071 | 🌐 Python | 📅 2026-11-27.
+* [flake8-black](https://github.com/peterjc/flake8-black) ⭐ 167 | 🐛 3 | 🌐 Python | 📅 2026-11-16 - Wrapper around [black](https://github.com/psf/black) ⭐ 42,224 | 🐛 281 | 🌐 Python | 📅 2026-11-27.
+* [flake8-bandit](https://github.com/tylerwince/flake8-bandit) ⭐ 116 | 🐛 14 | 🌐 Python | 📅 2026-09-07 - Wrapper around [bandit](https://github.com/PyCQA/bandit) ⭐ 8,409 | 🐛 269 | 🌐 Python | 📅 2026-11-09.
+* [flake8-pylint](https://github.com/orsinium-labs/flake8-pylint) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-10-07 - Wrapper around [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,749 | 🐛 1,074 | 🌐 Python | 📅 2026-11-27.
 
 ## Formatters
 
@@ -257,4 +257,4 @@ Extensions for formatting flake8 output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
